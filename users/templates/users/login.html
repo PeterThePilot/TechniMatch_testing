@@ -1,0 +1,183 @@
+<!--&lt;!&ndash;<!DOCTYPE html>&ndash;&gt;-->
+<!--&lt;!&ndash;<html lang="en">&ndash;&gt;-->
+<!--&lt;!&ndash;<head>&ndash;&gt;-->
+<!--&lt;!&ndash;    <meta charset="UTF-8">&ndash;&gt;-->
+<!--&lt;!&ndash;    <meta name="viewport" content="width=device-width, initial-scale=1.0">&ndash;&gt;-->
+<!--&lt;!&ndash;    <title>Login - TechniMatch</title>&ndash;&gt;-->
+<!--&lt;!&ndash;</head>&ndash;&gt;-->
+<!--&lt;!&ndash;<body>&ndash;&gt;-->
+<!--&lt;!&ndash;    <h2>Login</h2>&ndash;&gt;-->
+<!--&lt;!&ndash;    <form method="post" action="{% url 'login' %}">&ndash;&gt;-->
+<!--&lt;!&ndash;        {% csrf_token %}&ndash;&gt;-->
+<!--&lt;!&ndash;        {{ form.as_p }}&ndash;&gt;-->
+<!--&lt;!&ndash;        <button type="submit">Log in</button>&ndash;&gt;-->
+<!--&lt;!&ndash;    </form>&ndash;&gt;-->
+<!--&lt;!&ndash;</body>&ndash;&gt;-->
+<!--&lt;!&ndash;</html>&ndash;&gt;-->
+
+
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+<!--    <title>Login - TechniMatch</title>-->
+<!--    <style>-->
+<!--        body {-->
+<!--            display: flex;-->
+<!--            justify-content: center;-->
+<!--            align-items: center;-->
+<!--            height: 100vh;-->
+<!--            margin: 0;-->
+<!--            background-color: #f0f2f5;-->
+<!--            color: #333;-->
+<!--            font-family: Arial, sans-serif;-->
+<!--        }-->
+<!--        form {-->
+<!--            padding: 20px;-->
+<!--            background-color: #fff;-->
+<!--            border-radius: 5px;-->
+<!--            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);-->
+<!--        }-->
+<!--        button {-->
+<!--            background-color: #007bff;-->
+<!--            color: white;-->
+<!--            padding: 10px;-->
+<!--            border: none;-->
+<!--            border-radius: 5px;-->
+<!--            cursor: pointer;-->
+<!--        }-->
+<!--        button:hover {-->
+<!--            background-color: #0056b3;-->
+<!--        }-->
+<!--    </style>-->
+<!--</head>-->
+<!--<body>-->
+<!--    <h2>Login</h2>-->
+<!--    <form method="post" action="{% url 'system' %}">-->
+<!--        {% csrf_token %}-->
+<!--        {{ form.as_p }}-->
+<!--        <button type="submit">Log in</button>-->
+<!--    </form>-->
+<!--</body>-->
+<!--</html>-->
+<!DOCTYPE html>
+<html lang="en">
+<style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+        body, html {
+            height: 100%;
+            margin: 0;
+            font-family: 'Poppins', sans-serif;
+            color: #333;
+            background: #fff;
+            position: relative;
+        }
+        .bg-image {
+            background-image: url('../../../static/images/technion2.png');
+            height: 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: relative;
+            background-color: rgba(0, 0, 0, 0.3);
+            background-blend-mode: overlay;
+            /*z-index: -1;*/
+        }
+        .content-container {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+            font-size: medium;
+            /*z-index: 2;*/
+        }
+        .card-custom {
+            background: rgba(255, 255, 255, 0.8);
+            border-radius: 10px;
+            padding: 50px;
+            width: 100%; /* Adjust the width as necessary */
+            max-width: 400px; /* Adjust the max width as necessary */
+            font-size: large;
+        }
+        .btn-custom {
+            margin: 10px;
+            background-color: #ad8561;
+            border-color: #ad8561;
+            color: #fff; /* Text color */
+            padding: 10px 15px; /* Padding inside the button */
+            border-radius: 10px; /* Rounded corners */
+            cursor: pointer; /* Mouse cursor on hover */
+            font-family: "Poppins", sans-serif; /* Use the imported font */
+            font-size: 16px; /* Font size */
+            display: block;
+            align-self: center;
+            align-items: center;
+            justify-content: center;
+            margin-left: auto;
+            margin-right: auto;
+
+        }.alertlogin-alert-danger{
+            color: #721c24;
+            background-color: #f8d7da;
+            border-color: #f5c6cb;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid transparent;
+            border-radius: 4px;
+        }
+
+        .btn-custom:hover {
+            background-color: #152fa1;
+            border-color: #152fa1;
+        }
+        .h2 {
+            color: #333; /* Dark text color */
+            font-size: 30px; /* Larger font size */
+            margin-bottom: 20px; /* Space below the heading */
+        }
+        /* Additional styles as needed */
+    </style>
+</head>
+<body>
+
+<div class="bg-image"></div>
+
+<div class="content-container">
+    <div class="card-custom">
+        <h2>Login</h2>
+        <!-- Your form here -->
+        <form method="post" action="{% url 'login' %}">
+            {% csrf_token %}
+            {% if form.errors %}
+            <div class="alertlogin-alert-danger">
+                {{ form.errors }}
+            </div>
+        {% endif %}
+            <div class="form-group">
+                {{ form.username.label_tag }}
+                {{ form.username }}
+            </div>
+            <div class="form-group">
+                {{ form.password.label_tag }}
+                {{ form.password }}
+            </div>
+
+            <div class="form-group form-check">
+                <input type="checkbox" class="form-check-input" id="rememberMe">
+                <label class="form-check-label" for="rememberMe">Remember Me</label>
+            </div>
+            <button type="submit" class="btn btn-custom">Log in</button>
+            <a href="{% url 'password_reset' %}" class="btn btn-link">Forgot Password?</a>
+        </form>
+    </div>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.9.3/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+</body>
+</html>

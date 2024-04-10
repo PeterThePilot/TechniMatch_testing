@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recommendations</title>
+</head>
+<body>
+    <h1>Your Course Recommendations</h1>
+    <div id="recommendation-list">
+        {% if recommendations %}
+            <h2>Based on similarity:</h2>
+            {% for course in recommendations.similarity %}
+            <p>{{ course }}</p>
+            {% endfor %}
+            <h2>Based on ranking:</h2>
+            {% for course in recommendations.ranking %}
+            <p>{{ course }}</p>
+            {% endfor %}
+        {% else %}
+            <p>No recommendations found.</p>
+        {% endif %}
+    </div>
+</body>
+</html>

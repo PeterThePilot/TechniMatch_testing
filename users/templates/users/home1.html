@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechniMatch - Home</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            padding-top: 50px;
+            background: #ffffff; /* White background */
+            color: #333333; /* Darker text for better readability */
+            font-family: 'Arial', sans-serif; /* Custom font */
+        }
+        .navbar {
+            background-color: #563d7c; /* Bootstrap primary color */
+        }
+        .hero-section {
+            padding: 50px 0;
+            background: url('{% static "/django_extensions/img/technion1.png" %}') center no-repeat;
+            background-size: cover;
+        }
+        .intro-text {
+            margin-bottom: 30px;
+        }
+        .btn-custom {
+            background-color: #007bff; /* Bootstrap info color */
+            color: white;
+            padding: 10px 20px;
+            border-radius: 20px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+        .img-fluid {
+            max-width: 100%;
+            height: auto;
+        }
+        /* Add more custom styles as needed */
+    </style>
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <a class="navbar-brand" href="#">TechniMatch</a>
+        <!-- Add more navigation items here -->
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="hero-section">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <h1>Welcome to TechniMatch!</h1>
+                    <p class="intro-text">Your one-stop platform for finding technical matches for all your projects. Join our community and start collaborating!</p>
+                    <!-- Call to Action Button -->
+                    <a href="/register/" class="btn btn-custom">Try For Free</a>
+                </div>
+                <div class="col-md-6">
+                    <!-- Add your image inside the div below -->
+                    <img src="{% static 'img/technion1.png' %}" class="img-fluid" alt="Welcome Image">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS and its dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

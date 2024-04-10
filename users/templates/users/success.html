@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration Successful</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        .container {
+            margin-top: 100px;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+            margin-bottom: 20px;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+    </style>
+<head>
+    <meta charset="UTF-8">
+    <title>Registration Successful!</title>
+</head>
+<body>
+     <div class="container">
+        <h1>Registration Successful!</h1>
+        <p>You have successfully registered. You can log in now!</p>
+        <a href="{% url 'home' %}">Return to Home</a>
+         <a href="{% url 'login' %}">Log In</a>
+    </div>
+</body>
+</html>

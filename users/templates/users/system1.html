@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>System - Dashboard</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .sidebar {
+            height: 100vh;
+            width: 250px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background-color: #333;
+            padding-top: 20px;
+        }
+        .sidebar a {
+            padding: 10px 15px;
+            text-decoration: none;
+            font-size: 18px;
+            color: white;
+            display: block;
+        }
+        .sidebar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .main-content {
+            margin-left: 250px;
+            padding: 15px;
+        }
+        .recommend-btn {
+            padding: 10px 20px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .recommend-btn:hover {
+            background-color: #218838;
+        }
+    </style>
+</head>
+<body>
+    <div class="sidebar">
+        <a href="{% url 'profile' %}">Profile</a>
+        <a href="{% url 'rankings' %}">Rankings</a>
+        <a href="{% url 'recommendations' %}">Recommendations</a>
+    </div>
+
+    <div class="main-content">
+        <h1>Welcome to the System Dashboard, {{ username }}</h1>
+        <button class="recommend-btn" onclick="startRecommendation()">Get Course Recommendations</button>
+        <!-- Placeholder for recommendations -->
+        <div id="recommendation-list"></div>
+    </div>
+
+    <script>
+        function getCookie(name) {
+    let cookieValue = null;
+    if (document.cookie && document.cookie !== '') {
+        const cookies = document.cookie.split(';');
+        for (let i = 0; i < cookies.length; i++) {
+            const cookie = cookies[i].trim();
+            if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                break;
+            }
+        }
+    }
+    return cookieValue;
+}
+
+const csrftoken = getCookie('csrftoken');
+
+function startRecommendation() {
+    var preferenceText = document.getElementById('preferenceInput').value;
+    window.location.href = `/users/recommendations/?preference=${encodeURIComponent(preferenceText)}`;
+}
+        // Placeholder function for starting the recommendation algorithm
+//         function startRecommendation() {
+//     var preferenceText = "Your preference text"; // You need to get this from the user input
+//     fetch(`/get_course_recommendations/?preference=${encodeURIComponent(preferenceText)}`)
+//         .then(response => response.json())
+//         .then(data => {
+//             const recommendationList = document.getElementById('recommendation-list');
+//             recommendationList.innerHTML = '<h2>Top Course Recommendations</h2>';
+//             data.similarity.forEach(course => {
+//                 recommendationList.innerHTML += `<p>Based on similarity: ${course}</p>`;
+//             });
+//             data.ranking.forEach(course => {
+//                 recommendationList.innerHTML += `<p>Based on ranking: ${course}</p>`;
+//             });
+//         })
+//         .catch(error => console.error('Error fetching recommendations:', error));
+// }
+    </script>
+</body>
+</html>

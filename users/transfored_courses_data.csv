@@ -1,0 +1,1348 @@
+course_name,course_id,course_basic_information,pre_required_courses,semesterial_data,time,is_manadatory_ds,is_manadatory_ie,is_manadatory_se,time_category
+94101 - Intro.to Industrial Eng. and Management,94101,"The Course Provides an Overview of Aspects of Industrial Engineering
+And Management, Emphasizing System Integration in The Design Of
+Products and Services, Layout Planning, The Design of Information
+Systems, Management of Supply Chains and Service Systems, Etc.
+The Course Includes an Overview of Decision Making and Is
+Accompanied By a Project.",[],"['94100 - מבוא להנדסת תעשיה ושילוב מערכות', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Assaf Avrahami', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Assaf Avrahami', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours']",12:00:00,False,True,False,N
+94139 - Manage. Logist. System.,94139,"Modeling of Inventory Systems For Various Products, For Finite
+And Infinite Horizon, Under Deterministic Or Stochastic
+Conditions, and With Special Constraints. Planning Multi-echelon
+Inventory Systems and Supply Chains. Models For Managing And
+Controlling Supply Chains.","['94312 - Deterministic Mod.in Operations Research', '94411 - Probability (ie)', '94312 - Deterministic Mod.in Operations Research', '94412 - Probability (advanced)', '94313 - Deterministic Models in Oper.research', '94411 - Probability (ie)', '94313 - Deterministic Models in Oper.research', '94412 - Probability (advanced)', '94412 - Probability (advanced)', '95295 - Algebraic Methods For Data Science', '94412 - Probability (advanced)', '95296 - Algebric Methods For Data Science']","['(94312 - Deterministic Mod.in Operations Research and 94411 - Probability (ie)) or (94312 - Deterministic Mod.in Operations Research and 94412 - Probability (advanced)) or (94313 - Deterministic Models in Oper.research and 94411 - Probability (ie)) or (94313 - Deterministic Models in Oper.research and 94412 - Probability (advanced)) or (94412 - Probability (advanced) and 95295 - Algebraic Methods For Data Science) or (94412 - Probability (advanced) and 95296 - Algebric Methods For Data Science)', '94314 - Stochastic Models in Oper.research', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Galit Yom-tov', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Galit Yom-tov', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Galit Yom-tov']",12:30:00,False,True,False,N
+94142 - Operation of Production Service Systems,94142,"Classification of Production Systems, Graphical and Mathematical
+Models For System Representation. Scheduling in Flow Shop And
+Job Shop Environments. Mass Production Systems and Assembly
+Systems. Dynamics of Production Systems# Critical Wip,
+Bottleneck Production Rate, Relation Between Wip, Throughput
+And Lead Time. Push Versus Pull Control Systems# Mrp, Mrp 2,
+Kanban, Conwip, Dbr.",['94139 - Manage. Logist. System.'],"['94139 - Manage. Logist. System.', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Boris Shnits', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Boris Shnits', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours']",11:30:00,False,True,False,M
+94170 - Industrial Engineering Methods,94170,"The Course Discusses a Variety of Industrial Engineering Methods. The
+Course Will Teach# Systematic Analysis of Process and Their
+Presentation, Work Measurement, Lean, Six Sigma, Agile Software
+Development, Ergonomics and Product Design Principles. Focus Will Be
+Given to Applying Various Advanced Methods Including Automatic Data
+Collection Using Sensors and Data Analysis Using Machine Learning
+Algorithms.","['94423 - Introduction to Statistics', '114051 - Physics 1', '94424 - Statistics 1', '114051 - Physics 1']","['(94423 - Introduction to Statistics and 114051 - Physics 1) or (94424 - Statistics 1 and 114051 - Physics 1)', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Shlomi Laufer', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Shlomi Laufer', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours']",16:00:00,False,True,False,E
+94179 - Industrial Engineering in The Field,94179,"Class Includes Visits in Various Industries and Introduction to The
+Different Challenges Each Industry Has# E.g. Food, Plastic,
+Electronics, Public Sector, Non-profit, Hospitals, Production, Call
+Centers, Software. in Every Industry The Students Will Learn The
+Unique Challenges For The Industrial Engineer and Will Learn to Apply
+The Correct Tools.","['94142 - Operation of Production Service Systems', '94170 - Industrial Engineering Methods', '95140 - Project Planning and Management', '94142 - Operation of Production Service Systems', '95112 - Performance Measurement and Methods Impr', '95140 - Project Planning and Management']","['(94142 - Operation of Production Service Systems and 94170 - Industrial Engineering Methods and 95140 - Project Planning and Management) or (94142 - Operation of Production Service Systems and 95112 - Performance Measurement and Methods Impr and 95140 - Project Planning and Management)', '96324 - Service Engineering', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 1 Project Hours', 'Assaf Avrahami']",09:30:00,False,False,False,M
+94189 - Design Project Proposal,94189,"Groups of Students Will Prepare a Design Project Proposal Whose
+Aim Is to Apply The Knowledge and Tools Studied in Previous
+Course Work. The Project Proposal Will Include a Literature
+Review, Description of The Existing Situation and Problem,
+Methodology, Alternative Problem Solutions and The Potential
+Benefits of The Proposed Solutions.","['94142 - Operation of Production Service Systems', '94170 - Industrial Engineering Methods', '95140 - Project Planning and Management']","['(94142 - Operation of Production Service Systems and 94170 - Industrial Engineering Methods and 95140 - Project Planning and Management)', '94395 - Design Project Proposal\n96700 - Organizational Practicum', '1.5 Academic Credit\n                             • 1 Lecture Hours\n                            \n                            \n                             • 6 Project Hours', 'Yale Herer', '1.5 Academic Credit\n                             • 1 Lecture Hours\n                            \n                            \n                             • 6 Project Hours', 'Yale Herer', '1.5 Academic Credit\n                             • 1 Lecture Hours\n                            \n                            \n                             • 6 Project Hours']",17:30:00,False,True,False,E
+94195 - Design Project 1,94195,"Students Will Apply Ie and M Knowledge and Skills in Order To
+Implement The Preliminary Project Proposal Developed in Course
+(094189) and Solve a Real-world Problem. Student Teams Will
+Implement an Untegrative Project Relating to Ie and M Topics,
+Designing a New System (or Change an Existing System) And
+Including a Cost-benefit Analysis. The Grade Will Be Based On
+The Quality of The Solution and The Level of Knowledge And
+Skill Application.",['94189 - Design Project Proposal'],"['94189 - Design Project Proposal', '94396 - Design Project 1\n96700 - Organizational Practicum', '3.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 6 Project Hours', 'Yale Herer', '3.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 6 Project Hours', '3.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 6 Project Hours', 'Yale Herer']",17:30:00,False,True,False,E
+94198 - Case Studies in Industrial Engineering,94198,"The Study of Cases in Industrial Engineering, Through The Application
+Of Relevant Techniques.  The Cases Will Be Dealt With in Two Stages#
+A) Presentation and Analysis of The Problem, and B) Survey of Possible
+Approaches For a Solution. For Each Case, Students Will Be Required To
+Submit  a Detailed Report, Including Problem Analysis Techniques And
+Recommendations.","['94139 - Manage. Logist. System.', '94142 - Operation of Production Service Systems']","['(94139 - Manage. Logist. System. and 94142 - Operation of Production Service Systems)', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                            \n                            \n                             • 1 Project Hours', 'Hussein Naseraldin', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                            \n                            \n                             • 1 Project Hours', 'Hussein Naseraldin', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                            \n                            \n                             • 1 Project Hours', 'Hussein Naseraldin']",14:30:00,False,False,False,N
+94202 - Introduction to Data Analysis in Python,94202,"The Course Will Provide Students With Basic Knowledge and Tools For
+Performing Data Analysis Using Python. The Course Will Include The
+Following Topics# Data Collection and Cleaning, Efficient Data
+Representations, Exploratory Data Analysis, Data Visualization,
+Clustering and Basic Classification Methods.","['234128 - Introduction to Computing With Python', '234221 - Introduction to Computer Science N']","['234128 - Introduction to Computing With Python or 234221 - Introduction to Computer Science N', '94700 - Introduction to Data Science and Engin.\n96202 - Introduction to Data Analysis', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                            \n                             • 2 Lab Hours', 'Ori Plonsky', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                            \n                             • 2 Lab Hours', 'Ori Plonsky', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                            \n                             • 2 Lab Hours']",12:10:00,False,True,True,N
+94210 - Computer Architecture and Operating Sys.,94210,"The Course Gives an Introduction to Computer Technologies And
+Networks, As Well As Some Basic Computer Science Terminology.
+Topics Include# The Structure of The Computer From The Programmer's
+Point of View. Memory Organization. Op-code, Addressing.
+Selected Topics in Modern Operating Systems, Including Processes
+And Threads, Scheduling Problems, Semaphores, The Critical-section
+Problem and Memory-management.
+Introduction to Networks# The Seven-layer Model of Computer
+Networks, Basic Protocols Such As Stop-and-wait and Go-back-n,
+Tcp/ip and The Internet. Computations and Computational Complexity.","['94704 - C Programming Workshop', '234221 - Introduction to Computer Science N', '234111 - Introduction to Computer Science', '234117 - Introduction to Computer Science H']","['(94704 - C Programming Workshop and 234221 - Introduction to Computer Science N) or 234111 - Introduction to Computer Science or 234117 - Introduction to Computer Science H', '94201 - Introductio to Data Science\n94219 - Software Engineering', '44334 - Computer Networks and Internet 1\n46209 - Structure of Operating Systems\n46334\n234119\n234120\n236364', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Ofer Strichman', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Ofer Strichman', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours']",12:50:00,True,False,True,N
+94219 - Software Engineering,94219,"Software Development Methods in Large Systems With Introduction To
+Design and Programming in Object-oriented Methodology. The Course
+Will Be Taught Using The Java Programming Language.","['234111 - Introduction to Computer Science', '234117 - Introduction to Computer Science H', '234221 - Introduction to Computer Science N']","['234111 - Introduction to Computer Science or 234117 - Introduction to Computer Science H or 234221 - Introduction to Computer Science N', '44101 - Introduction to Software Systems\n94201 - Introductio to Data Science\n94220\n96609 - Quan. Models in Behavioral Sciences\n234121\n234122 - Introduction to Systems Programming\n234124 - Introduction to Systems Programming', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                            \n                             • 2 Lab Hours', 'Ahmad Jbara', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                            \n                             • 2 Lab Hours', 'Ahmad Jbara', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                            \n                             • 2 Lab Hours', 'Ahmad Jbara']",09:00:00,True,True,True,M
+94222 - Model-based Systems Engineering,94222,"The Course Introduces Principles and Applications of Model-based
+Systems Engineering, The Modern Approach to Architecting Complex
+Systems Involving Humans, Hardware and Software Using Opm Iso-19450
+Standard For Modeling and Designing Systems. Topics# Object, Process,
+State, System Structure, Behavior and Function, Beneficiary,
+Environment, Complexity Management, Textual-graphical
+Representations, Structural and Procedural Relations.",[],"['3.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                             • 1 Lab Hours\n                             • 2 Project Hours', 'Niva Wengrowicz', '3.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                             • 1 Lab Hours\n                             • 2 Project Hours', 'Niva Wengrowicz', '3.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                             • 1 Lab Hours\n                             • 2 Project Hours', 'Niva Wengrowicz']",17:00:00,False,False,False,E
+94224 - Data Structures and Algorithms,94224,"The Course Deals With Fundamental Concepts in Designing and Analyzing
+Data Structures and Algorithms. Topics# Sorting Algorithms,
+Fundamental Data Structures# Stack, Queue, Binary Tree Data
+Structures Including Universal Hashing, Basic Graph Algorithms#
+Searching, Shortest Paths, Minimum Spanning Tree, Dynamic Programing.","['94201 - Introductio to Data Science', '94345 - Discrete Mathematics (for I.e)', '94219 - Software Engineering', '94347 - Discrete Mathematics', '94219 - Software Engineering', '94345 - Discrete Mathematics (for I.e)']","['(94201 - Introductio to Data Science and 94345 - Discrete Mathematics (for I.e)) or (94219 - Software Engineering and 94347 - Discrete Mathematics) or (94219 - Software Engineering and 94345 - Discrete Mathematics (for I.e))', '94411 - Probability (ie)\n94412 - Probability (advanced)', '44268 - Int. to Data Structur and Algorithms\n94223 - מבני נתונים ואלגוריתמים\n234218 - Data Structures 1\n234246\n234247 - Algorithms 1', '94223 - מבני נתונים ואלגוריתמים\n94226 - Introduction to Algorithms', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Yuval Emek', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Yuval Gil', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Yuval Emek']",13:00:00,True,True,True,N
+94241 - Database Management,94241,"The Course Covers Basic Topics in Relational Database Management,
+Including Design Using Erd and Normalization, Querying in Sql,
+And Introduction to Transaction Management. The Student Will Be
+Involved in The Design and Development of a Database.","['94345 - Discrete Mathematics (for I.e)', '94700 - Introduction to Data Science and Engin.', '94345 - Discrete Mathematics (for I.e)', '234221 - Introduction to Computer Science N', '94347 - Discrete Mathematics', '234221 - Introduction to Computer Science N']","['(94345 - Discrete Mathematics (for I.e) and 94700 - Introduction to Data Science and Engin.) or (94345 - Discrete Mathematics (for I.e) and 234221 - Introduction to Computer Science N) or (94347 - Discrete Mathematics and 234221 - Introduction to Computer Science N)', '94240 - ניהול מסדי נתונים\n236363 - Databases', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                             • 1 Lab Hours', 'Batya Kenig', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                             • 1 Lab Hours', 'Avigdor Gal', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                             • 1 Lab Hours', 'Batya Kenig']",15:00:00,True,False,True,N
+94288 - Ethical Issues in Data Responsibility,94288,"We Examine Issues in The Intersection of Law, Ethics, and Technology
+That Arise From The Use of Data Systems. Case Studies On Subjects
+Such As Liability, Discrimination, Privacy, and Content Management
+Are Used to Understand The Need For Dialog Among These Disciplines.
+These Case Studies Will Be Used to Form The Foundation of a Dialog.","['96224 - Distributed Data Management', '96411 - Machine Learning 1']","['(96224 - Distributed Data Management and 96411 - Machine Learning 1)', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Avigdor Gal', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Avigdor Gal', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Carmel Domshlak']",18:30:00,False,False,False,E
+94290 - Data Gathering and Management Lab,94290,"The Grade Will Be Determined Based On Continuous Work During The
+Semester and Bi-weekly Reports. The Lab Covers The Following Topics#
+Data Gathering From Sensors, Load Shedding, Reading From an Input
+File and Partitioning Into Data Strams, Data Cleaning, Cloud
+Computing, Nosql Databases, Map-reduce, and Hadoop.",['96224 - Distributed Data Management'],"['96224 - Distributed Data Management', '3 Academic Credit\n                            \n                            \n                             • 4 Lab Hours\n                             • 4 Project Hours', 'Noam Cohen', '3 Academic Credit\n                            \n                            \n                             • 4 Lab Hours\n                             • 4 Project Hours', '3 Academic Credit\n                            \n                            \n                             • 4 Lab Hours\n                             • 4 Project Hours']",0,True,False,False,M
+94295 - Data Analysis and Visualization,94295,"Methodology and Practice of Building Data Analysis Systems For Large-
+Scale Data Using Statistical Tools (e.g., Regression) and Learning
+Tools (clustering and Classification). The Map Reduce Methodology
+Will Be Used For Data Analysis, and Tools Such As Search Engines And
+Databases Will Be Integrated. Paradigms For Visualization of Analysis
+Results Will Be Employed.","['94290 - Data Gathering and Management Lab', '97209 - Machine Learning 2']","['(94290 - Data Gathering and Management Lab and 97209 - Machine Learning 2)', '3 Academic Credit\n                            \n                            \n                             • 4 Lab Hours\n                             • 4 Project Hours', 'Bar Genossar', '3 Academic Credit\n                            \n                            \n                             • 4 Lab Hours\n                             • 4 Project Hours', 'Tamir Hazan', '3 Academic Credit\n                            \n                            \n                             • 4 Lab Hours\n                             • 4 Project Hours']",0,True,False,False,M
+94312 - Deterministic Mod.in Operations Research,94312,"Methodology of Operations Research. Distribution Problems and The
+Transportation Method. Linear Programming. Formulating Various
+Problems As Linear and Integer Programming Models. C.p.m. Maximal
+Flow and Other Network Models. Integer Programming and Branch And
+Bound Method.","['104016 - Algebra 1/extended', '234221 - Introduction to Computer Science N', '104019 - Linear Algebra M', '234221 - Introduction to Computer Science N', '104019 - Linear Algebra M', '234111 - Introduction to Computer Science']","['(104016 - Algebra 1/extended and 234221 - Introduction to Computer Science N) or (104019 - Linear Algebra M and 234221 - Introduction to Computer Science N) or (104019 - Linear Algebra M and 234111 - Introduction to Computer Science)', '94313 - Deterministic Models in Oper.research\n94380\n96390\n96609 - Quan. Models in Behavioral Sciences', '94390\n95606', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Shimrit Shtern']",13:00:00,False,True,True,N
+94313 - Deterministic Models in Oper.research,94313,"Methodology of Operations Research. Distribution Problems and The
+Transportation Method. Linear Programming. Formulating Various
+Problems As Linear and Integer Programming Models. C.p.m. Maximal
+Flow and Other Network Models. Integer Programming and Branch And
+Bound Method. Dynamic Programming.","['104016 - Algebra 1/extended', '234221 - Introduction to Computer Science N', '104019 - Linear Algebra M', '234221 - Introduction to Computer Science N', '104019 - Linear Algebra M', '234111 - Introduction to Computer Science']","['(104016 - Algebra 1/extended and 234221 - Introduction to Computer Science N) or (104019 - Linear Algebra M and 234221 - Introduction to Computer Science N) or (104019 - Linear Algebra M and 234111 - Introduction to Computer Science)', '94312 - Deterministic Mod.in Operations Research\n94380\n96390\n96609 - Quan. Models in Behavioral Sciences', '94390\n95606', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Shimrit Shtern', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Shimrit Shtern', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours']",13:00:00,False,False,False,N
+94314 - Stochastic Models in Oper.research,94314,"This Course Is Concerned With The Construction of Mathematical
+Models of Stochastic Systems and Includes The Basic Concepts Of
+The Theory of Stochastic Processes.  The Course Concentrates On
+The Following Topics#  Counting Processes (bernoulli, Poisson
+Processes), Markov Jump Processes.  Markovian Queueing Processes, Etc#
+Markov Chains.  in Addition, The Course Contains an Introduction To
+Queueing Theory, Dealing Mainly With Single Server Queues (m/m/1
+And M/g/1 Models).","['94411 - Probability (ie)', '104019 - Linear Algebra M', '234111 - Introduction to Computer Science', '94411 - Probability (ie)', '104019 - Linear Algebra M', '234221 - Introduction to Computer Science N', '94411 - Probability (ie)', '104016 - Algebra 1/extended', '234221 - Introduction to Computer Science N', '94412 - Probability (advanced)', '104166 - Algebra Am', '234117 - Introduction to Computer Science H']","['(94411 - Probability (ie) and 104019 - Linear Algebra M and 234111 - Introduction to Computer Science) or (94411 - Probability (ie) and 104019 - Linear Algebra M and 234221 - Introduction to Computer Science N) or (94411 - Probability (ie) and 104016 - Algebra 1/extended and 234221 - Introduction to Computer Science N) or (94412 - Probability (advanced) and 104166 - Algebra Am and 234117 - Introduction to Computer Science H)', '94390', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Leonid Mytnik', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Leonid Mytnik', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Itai Arieli']",11:00:00,True,True,True,M
+94333 - Dynamic Models in Operations Research,94333,"Difference and Differential Equations With Constant Coefficients,
+Systems of Difference and Differential Equations With Constant
+Coefficients, Introduction to Dynamic Programming, Introduction To
+Integer Programming, Totally Unimodular Systems and Their
+Applications, Gomory Cut Method, Branch and Bound Method
+And Its Applications.","['94345 - Discrete Mathematics (for I.e)', '104022 - Differential and Integral Calculus 2m', '94346 - Discrete Mathematics', '104020 - Calculus 2n', '94347 - Discrete Mathematics', '104022 - Differential and Integral Calculus 2m']","['(94345 - Discrete Mathematics (for I.e) and 104022 - Differential and Integral Calculus 2m) or (94346 - Discrete Mathematics and 104020 - Calculus 2n) or (94347 - Discrete Mathematics and 104022 - Differential and Integral Calculus 2m)', '94312 - Deterministic Mod.in Operations Research\n94313 - Deterministic Models in Oper.research', '34019\n34032 - Linear Systems M\n44130 - Signals and Systems\n44190\n44194\n94323 - Dynamic Models in Operations Research\n104131 - Ordinary Differential Equations/h\n104135 - Ordinary Differential Equations/t\n104213\n104285 - Ordinary Differential Equations A', '3 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Shmuel Onn', '3 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Shmuel Onn', '3 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours']",13:00:00,False,False,False,N
+94345 - Discrete Mathematics (for I.e),94345,"Basic Concepts in Logic, Mathematical Proving Methods. Set Theory#
+Basic Definitions, Relations, Equivalence Relations, Order
+Relations, Functions, Cardinals, Cantor's Diagonalization.
+Combinatorics# Basic Counting Principles, Newton's Binomial,
+Inclusion - Exclusion Principle, Recurrence Relations.",[],"['44114 - Discrete Mathematics Ee\n94344 - Discrete Mathematics (for I.e)\n94346 - Discrete Mathematics\n104002 - Basic Concepts in Mathematics\n104286 - Combinatorics\n234129 - Int. to Set Theory and Automata For Cs\n234141 - Combinatorics For Cs\n234144\n234292 - Logic For Cs\n234293 - Logic and Set Theory For Cs', '94347 - Discrete Mathematics', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Nadav Hallak', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Gal Mendelson', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Nadav Hallak']",14:00:00,True,True,True,N
+94395 - Design Project Proposal,94395,"Groups of Students Will Prepare a Design Project Proposal Whose Aim Is
+To Apply The Knowledge, Techniques, and Other Tools Acquired In
+Previous Course Work (including The Ability For Self-study,
+Cooperation). The Proposal Will Include a Literature Survey,
+Description of The Existing Situation and Problem, Methodology,
+Difficulties, Comparison to Alternative Solutions, and The Potential
+Benefits of The Proposed Solutions.","['94222 - Model-based Systems Engineering', '94224 - Data Structures and Algorithms', '94222 - Model-based Systems Engineering', '94313 - Deterministic Models in Oper.research', '94222 - Model-based Systems Engineering', '94312 - Deterministic Mod.in Operations Research', '95140 - Project Planning and Management', '96250 - Distributed Information Systems']","['(94222 - Model-based Systems Engineering and 94224 - Data Structures and Algorithms) or (94222 - Model-based Systems Engineering and 94313 - Deterministic Models in Oper.research) or (94222 - Model-based Systems Engineering and 94312 - Deterministic Mod.in Operations Research) or (95140 - Project Planning and Management and 96250 - Distributed Information Systems)', '95140 - Project Planning and Management\n96250 - Distributed Information Systems', '94189 - Design Project Proposal\n96700 - Organizational Practicum', '1.5 Academic Credit\n                             • 1 Lecture Hours\n                            \n                            \n                             • 6 Project Hours', 'Niva Wengrowicz', '1.5 Academic Credit\n                             • 1 Lecture Hours\n                            \n                            \n                             • 6 Project Hours', 'Niva Wengrowicz', '1.5 Academic Credit\n                             • 1 Lecture Hours\n                            \n                            \n                             • 6 Project Hours', 'Haim Cohen']",17:30:00,False,False,True,E
+94396 - Design Project 1,94396,"Teams of Students Will Apply Skills From Their Degree in Order To
+Implement The Project Proposal Developed in The Preceding Course To
+Solve a Real-world Problem in Information Systems (in The Broad
+Sense). The Grade Will Be Based On The Quality of The Solution
+(including Originality, Efficiency,  Ease of Use), The Quality of The
+Presentation, and The Level of Knowledge and Skill Demonstrated.",['94395 - Design Project Proposal'],"['94395 - Design Project Proposal', '94195 - Design Project 1\n96700 - Organizational Practicum', '3.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 6 Project Hours', 'Niva Wengrowicz', '3.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 6 Project Hours', 'Niva Wengrowicz', '3.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 6 Project Hours', 'Haim Cohen']",17:30:00,False,False,True,E
+94411 - Probability (ie),94411,"תורת ההסתברות כמודל מתמטי לתופעות מקריות, מרחבי הסתברות, הסתברות
+מותנית, אי תלות, משתנים מקריים ופונקציות התפלגות, התפלגויות
+נפוצות בשימושים: בינומית, גיאומטרית פואסונית, אחידה, אקספוננציאלית,
+גאמא, נורמלית ובאטא. תוחלת ומומנטים. התפלגויות רב ממדיות,
+קוויריאנס, סטטיסטי הסדר, פונקציות של משתנים מקריים, ההתפלגות
+הנורמלית הרב מימדית, התמרות ושימושיהן בתורת ההסתברות, סכום של
+משתנים מקריים, חוק המספרים הגדולים, משפט הגבול המרכזי ושימושו
+לקרובים.","['104017 - Calculus 1n', '104018 - Differential and Integral Calculus 1m', '104031 - Calculus 1m', '104195 - Infinitesimal Calculus 1']","['104017 - Calculus 1n or 104018 - Differential and Integral Calculus 1m or 104031 - Calculus 1m or 104195 - Infinitesimal Calculus 1', '104020 - Calculus 2n\n104022 - Differential and Integral Calculus 2m\n104032 - Calculus 2m\n104281 - Infinitesimal Calculus 2', ""94412 - Probability (advanced)\n94417 - הסתברות א'\n94491\n94492\n104034 - Introduction to Probability H\n104222 - Probability Theory"", '94480 - מבוא להסתברות וסטטיסטיקה\n94481 - Int.to Probability and Statistics', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Daniel Rabayev', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Tamar Margalit', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Oren Louidor']",11:00:00,False,True,True,M
+94412 - Probability (advanced),94412,"Probability Spaces. Conditional Probability. Random Variables.
+Transformation of Random Variables. Expectations and Moments. Discrete
+And Continuous Distributions. Vector of Random Variablrs And
+Their Joint Distributions. Characteristic Functions and Limit
+Theorems. Conditional Distributions and Expectations.","['104017 - Calculus 1n', '104018 - Differential and Integral Calculus 1m', '104031 - Calculus 1m', '104195 - Infinitesimal Calculus 1']","['104017 - Calculus 1n or 104018 - Differential and Integral Calculus 1m or 104031 - Calculus 1m or 104195 - Infinitesimal Calculus 1', '104020 - Calculus 2n\n104022 - Differential and Integral Calculus 2m\n104032 - Calculus 2m\n104281 - Infinitesimal Calculus 2', ""94411 - Probability (ie)\n94417 - הסתברות א'\n94491\n94492\n104034 - Introduction to Probability H\n104222 - Probability Theory"", '94480 - מבוא להסתברות וסטטיסטיקה\n94481 - Int.to Probability and Statistics', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Eviatar Procaccia', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Oren Louidor', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Oren Louidor']",15:30:00,True,False,False,N
+94423 - Introduction to Statistics,94423,"Descriptive Statistics and Grafical Methods. Point Estimation,
+Interval Estimation and Hypothesis Tests. Non-parametric Tests.
+Basics of Sampling. Linear Regression and Correlation.","['94411 - Probability (ie)', '94412 - Probability (advanced)', '104034 - Introduction to Probability H']","['94411 - Probability (ie) or 94412 - Probability (advanced) or 104034 - Introduction to Probability H', '94424 - Statistics 1\n94490\n334023 - Int. to Statistics For Biomedical Eng.', '94429\n94480 - מבוא להסתברות וסטטיסטיקה\n94481 - Int.to Probability and Statistics\n94493', '46010 - Statistical Inference', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Nadia Bordo', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Marina Bogomolov', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Nadia Bordo']",11:30:00,False,False,False,M
+94424 - Statistics 1,94424,"Descriptive Statistics and Graphical Methods. Point Estimation,
+Confidence Intervals and Hypothesis Tests. Chi-square Tests For
+Goodness of Fit and Independence. Simple Linear Regression.
+Statistical Analysis Using R Or Python.","['94202 - Introduction to Data Analysis in Python', '94411 - Probability (ie)', '94202 - Introduction to Data Analysis in Python', '94412 - Probability (advanced)', '94412 - Probability (advanced)', '94700 - Introduction to Data Science and Engin.']","['(94202 - Introduction to Data Analysis in Python and 94411 - Probability (ie)) or (94202 - Introduction to Data Analysis in Python and 94412 - Probability (advanced)) or (94412 - Probability (advanced) and 94700 - Introduction to Data Science and Engin.)', '94423 - Introduction to Statistics\n94481 - Int.to Probability and Statistics', '46010 - Statistical Inference', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Nadia Bordo', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Marina Bogomolov', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Nadia Bordo']",11:30:00,True,True,True,M
+94481 - Int.to Probability and Statistics,94481,"The First Part of The Course Introduces Basic Concepts Of
+Probability Theory# Basic Rules of Probability, Combinatory,
+Conditional Probability, Discrete and Continuous Random
+Variables and The Central Limit Theorem. The Second Part
+Focuses On Statistical Inference and Includes Descriptive
+Statistics, Sampling Distribution, Point Estimation,
+Confidence Intervals, Hypothesis Testing, Goodness of Fit
+Tests, Tests of Independence, and Simple Linear Regression.","['104004 - Differential and Integral Calculus 2', '104013 - Differential and Integral Calculus 2t', '104022 - Differential and Integral Calculus 2m']","['104004 - Differential and Integral Calculus 2 or 104013 - Differential and Integral Calculus 2t or 104022 - Differential and Integral Calculus 2m', '14003 - Statistics\n94424 - Statistics 1\n94480 - מבוא להסתברות וסטטיסטיקה\n104034 - Introduction to Probability H\n104222 - Probability Theory', '34058 - Probability and Statistics For Mech.eng.', ""46010 - Statistical Inference\n94411 - Probability (ie)\n94412 - Probability (advanced)\n94417 - הסתברות א'\n94423 - Introduction to Statistics\n334023 - Int. to Statistics For Biomedical Eng."", '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Nadia Bordo', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Nadia Bordo', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Alla Levin']",11:30:00,False,False,False,M
+94503 - Microeconomics 1,94503,"Theory of Consumer Behavior and Demand. Theory of Production and Cost.
+Firm Behavior Under Perfect Competition.","['94591 - Introductory Economics', '94594 - Principles of Economics For Engineers']","['94591 - Introductory Economics or 94594 - Principles of Economics For Engineers', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Hovav Perets', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Hovav Perets', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours']",11:30:00,False,False,False,M
+94504 - Microeconomics 2,94504,"Firm Behavior Under Imperfect Competition. The Theory of Distribution
+Under Different Market Structures. General Equilibrium and Welfare
+Economics.",['94503 - Microeconomics 1'],"['94503 - Microeconomics 1', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Hovav Perets', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Hovav Perets', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours']",17:00:00,False,False,False,E
+94513 - Macroeconomics,94513,"Input Output Analysis. Market Equilibrium and The Dynamics of Economic
+Processes. The Goods Market. The Money Market and International Trade.","['94591 - Introductory Economics', '94594 - Principles of Economics For Engineers']","['94591 - Introductory Economics or 94594 - Principles of Economics For Engineers', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Elyakim Ben-hakoun', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours']",13:00:00,False,False,False,N
+94564 - Introduction to Financial Management,94564,"Present Value and Future Value. Effective Vs. Stated Interest
+Rates. Project Evaluation and Net Present Value. Loans And
+Savings. Financial Management in Inflationary Environments.
+Introduction to Risk. The Capital Asset Pricing Model. The
+Financial Structure of The Firm. Modeigliani-miller Result.
+An Introduction to Options and Futures.",[],"['94411 - Probability (ie)\n94412 - Probability (advanced)\n94481 - Int.to Probability and Statistics', '14603 - Engineering Economics\n98565', '94593', '94565', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Hovav Perets', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Hovav Perets', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours']",13:00:00,False,True,True,N
+94569 - Capital Markets and Investments,94569,"The Course Introduces Financial Markets, Valuation Models,
+And Methods For Portfolio Selection and Risk Management. The
+Course Starts With Equity Markets, Mean-variance Portfolioselection
+Selection, Capm and Apt. Then It Reviews Derivatives and Bond
+Markets With an Emphasis On Risk Management.",['94564 - Introduction to Financial Management'],"['94564 - Introduction to Financial Management', '94566 - Capital Markets and Investments', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Mahmoud Qadan', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Mahmoud Qadan', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours']",13:30:00,False,False,False,N
+94591 - Introductory Economics,94591,"Supply, Demand and Market Equilibrium, Government Policy and Its
+Effect On The Equilibrium. Production, Cost Function and Derivation
+Of The Supply Curve. Behavior Under Various Market Structures#
+Perfect and Imperfect Competition. The National Economy#
+The National Accounts. Determination of National Income In
+A Keynsian Model. The Interest Rate and Its Effect On Investment.
+Equilibrium in The Money Market. Money Demand and Supply.
+General Equilibrium in The Commodities and Money Market.
+Fiscal and Monetary Policies.","['104003 - Differential and Integral Calculus 1', '104017 - Calculus 1n', '104018 - Differential and Integral Calculus 1m', '104031 - Calculus 1m', '104195 - Infinitesimal Calculus 1']","['104003 - Differential and Integral Calculus 1 or 104017 - Calculus 1n or 104018 - Differential and Integral Calculus 1m or 104031 - Calculus 1m or 104195 - Infinitesimal Calculus 1', '104004 - Differential and Integral Calculus 2\n104020 - Calculus 2n\n104022 - Differential and Integral Calculus 2m\n104032 - Calculus 2m\n104281 - Infinitesimal Calculus 2', '94592 - Economics For The Behavior and Mana.sci.\n94593\n94594 - Principles of Economics For Engineers', '94501 - Introduction to Economics - Micro\n94511 - Introduction to Economics - Macro', '96501 - Economics For Systems Engineers', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Sharon Teitler Regev', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Sharon Teitler Regev', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Hovav Perets']",11:00:00,False,False,False,M
+94594 - Principles of Economics For Engineers,94594,"The Course Covers Selected Topics in Micro and Macro Economics.
+The Micro Topics Include Consumer and Production Theory,
+Equilibrium in Competitive Markets and Monopolies,
+Government Intervention and International Trade. The Macro
+Topics Are National Accounting, The Keynesian Model, Money
+Markets and The Is-lm Model.","['104003 - Differential and Integral Calculus 1', '104017 - Calculus 1n', '104018 - Differential and Integral Calculus 1m', '104031 - Calculus 1m', '104195 - Infinitesimal Calculus 1']","['104003 - Differential and Integral Calculus 1 or 104017 - Calculus 1n or 104018 - Differential and Integral Calculus 1m or 104031 - Calculus 1m or 104195 - Infinitesimal Calculus 1', '94591 - Introductory Economics\n94592 - Economics For The Behavior and Mana.sci.\n94593', '94501 - Introduction to Economics - Micro\n94511 - Introduction to Economics - Macro', '96501 - Economics For Systems Engineers', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Hovav Perets', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Hovav Perets']",11:00:00,False,True,True,M
+94600 - Seminar in Cognitive Science,94600,"Seminar in Cognitive Science. Faculty Members Will Deliver
+Introductory Lectures to Cognitive Research at The Technion. Among
+The Topics to Be Covered# Language, Vision, Perception, Attention,
+Memory, Decision Making, Cognition and The Brain and Human Computer
+Interaction. Note# Registration Is Open Only to Students Who Are
+Registered in The Cognitive Science Specialization.",[],['1 Academic Credit\n                            \n                            \n                             • 2 Lab Hours'],0,False,False,False,M
+94700 - Introduction to Data Science and Engin.,94700,"Programming in Python With Emphasis On Data Processing, Analysis And
+Visualization. Basic Concepts in Statistics (mean, Median, Variance,
+Standard Deviation, Correlation), Clustering Algorithms (k-means,
+Hierarchical Agglomerative Clustering), Search (ad Hoc Retrieval) And
+Ranking (the Vector Space Model, Search Evaluation), Classification
+(knn and Rocchio) Collaborative Filtering and Content-based
+Recommendation.","['104166 - Algebra Am', '234117 - Introduction to Computer Science H']","['(104166 - Algebra Am and 234117 - Introduction to Computer Science H)', '94202 - Introduction to Data Analysis in Python', '94201 - Introductio to Data Science', '1.5 Academic Credit\n                             • 1 Lecture Hours\n                            \n                             • 2 Lab Hours', 'Oren Kurland', '1.5 Academic Credit\n                             • 1 Lecture Hours\n                             • 1 Discussion Hours', 'Oren Kurland', '1.5 Academic Credit\n                             • 1 Lecture Hours\n                             • 1 Discussion Hours', 'Ofra Amir']",12:30:00,True,False,False,N
+94701 - Research Project 1,94701,"The Student Will Undertake a Research Project, Supervised By a Faculty
+Member. The Supervisor, Together With The Student and The Course
+Instructor, Will Define The Project's Topic, Expected Goals and Grade
+Metrics. Registration Is Open Only For Members of The Excellence
+Program and Subject to Approval of The Instructor. at The End of The
+Course The Student Will Present His Work.",[],"['94197 - Semester Research Project\n94199 - Semesterial Project 2\n94697 - Reasearch Project in Cognitive Science', '3 Academic Credit\n                            \n                            \n                            \n                             • 6 Project Hours', 'Gila Molcho', '3 Academic Credit\n                            \n                            \n                            \n                             • 6 Project Hours', 'Gila Molcho', '3 Academic Credit\n                            \n                            \n                            \n                             • 6 Project Hours']",0,False,False,False,M
+94702 - Research Project 2,94702,"The Student Will Undertake a Research Project, Supervised By a Faculty
+Member. The Supervisor, Together With The Student and The Course
+Instructor, Will Define The Project's Topic, Expected Goals and Grade
+Metrics. Registration Is Open Only For Members of The Excellence
+Program and Subject to Approval of The Instructor. at The End of The
+Course The Student Will Present His Work.",['94701 - Research Project 1'],"['94701 - Research Project 1', '94197 - Semester Research Project\n94199 - Semesterial Project 2\n94697 - Reasearch Project in Cognitive Science', '3 Academic Credit\n                            \n                            \n                            \n                             • 6 Project Hours', 'Gila Molcho', '3 Academic Credit\n                            \n                            \n                            \n                             • 6 Project Hours', 'Gila Molcho', '3 Academic Credit\n                            \n                            \n                            \n                             • 6 Project Hours', 'Gila Molcho']",0,False,False,False,M
+94703 - Research Project 3,94703,"The Student Will Undertake a Research Project, Supervised By a Faculty
+Member. The Supervisor, Together With The Student and The Course
+Instructor, Will Define The Project's Topic, Expected Goals and Grade
+Metrics. Registration Is Open Only For Members of The Excellence
+Program and Subject to Approval of The Instructor. at The End of The
+Course The Student Will Present His Work.",[],"['94702 - Research Project 2', '94197 - Semester Research Project\n94199 - Semesterial Project 2\n94697 - Reasearch Project in Cognitive Science', '3 Academic Credit\n                            \n                            \n                            \n                             • 6 Project Hours', 'Gila Molcho', '3 Academic Credit\n                            \n                            \n                            \n                             • 6 Project Hours', 'Gila Molcho', '3 Academic Credit\n                            \n                            \n                            \n                             • 6 Project Hours', 'Gila Molcho']",0,False,False,False,M
+94704 - C Programming Workshop,94704,"C Programming For Those Who Have Learned to Program in Python.
+Variables and Types. Control Structures. Functions. Arrays. Pointers.
+Dynamic Memory Management. Input and Output. Structures. System Calls",[],"['234221 - Introduction to Computer Science N', '234112 - Programming )c(\n234114 - Introduction to Computer Science\n234117 - Introduction to Computer Science H', '1.5 Academic Credit\n                             • 1 Lecture Hours\n                            \n                             • 1 Lab Hours', 'Noam Cohen', '1.5 Academic Credit\n                             • 1 Lecture Hours\n                            \n                             • 1 Lab Hours', 'Noam Cohen', '1.5 Academic Credit\n                             • 1 Lecture Hours\n                            \n                             • 1 Lab Hours', 'Noam Cohen']",11:30:00,False,False,True,M
+94820 - Introduction to Accounting,94820,"The Cours Will Emphasize Understanding of Processes of Financial
+Reporting and Contents of Financial Reports, and Principles Of
+Managerial Accounting (pricing) and Their Main Instruments.
+It Will Also Provide Tools For Analyzing Corporate Activity,
+Using Integrative Company-related Information, Primarily
+Financial Reports.",[],"['94594 - Principles of Economics For Engineers', '94821 - Financial and Managerial Accounting', '2 Academic Credit\n                             • 2 Lecture Hours', 'Yaron Chashkover', '2 Academic Credit\n                             • 2 Lecture Hours', 'Yaron Chashkover', '2 Academic Credit\n                             • 2 Lecture Hours']",17:30:00,False,True,False,E
+95111 - Manufacturing Systems Design,95111,"The Course Will Provide Undrestanding of The Principles, Technology,
+Design, Implementation and Control of Manufacturing Systems.
+This Understanding Will Help in Implementing Advanced Manufacturing
+Technologies to Improve The Throughput, Profitability And
+Competitivness of Manufacturing Systems. The Technologies
+Discussed Will Include# Numerical Control Systems, Industrial
+Robots, Material Handling Systems (as/rs and Agv's), Programmable
+Controllers, Computer Vision, Computer Aided Design (cad), Computer
+Aided Process Planning (capp), Group Technology (gt), And
+Flexible Manufacturing Systems (fms). Problems of Integration
+Of These Technologies Into a Cim System Will Be Highlighted.","['94312 - Deterministic Mod.in Operations Research', '94313 - Deterministic Models in Oper.research']","['94312 - Deterministic Mod.in Operations Research or 94313 - Deterministic Models in Oper.research', '94165\n95144 - Comp. Integrated Manufacturing )cim( Sys', '3.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 3 Discussion Hours', 'Sergei Gamer', '3.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 3 Discussion Hours', 'Sergei Gamer', '3.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 3 Discussion Hours']",14:00:00,False,False,False,N
+95113 - Quality,95113,"Total Quality Management# Historical and Update Methods, Defining
+Operational Function, Quality Evaluation Methods, Demong's 14
+Principles, Customer Focused Strategy and Team Structure,
+Operation and Training. Self-managed Work Teams, The Learning
+Organization, Tqm in Logistics, Quality Cost, Benchmarking,
+Iso-9000, The Malcolm Baldridge Award, Planning and Operating
+Maintenance Systems (breakdown and Preventive).",['94139 - Manage. Logist. System.'],"['94139 - Manage. Logist. System.', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Eitan Naveh', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Eitan Naveh', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours']",09:00:00,False,False,False,M
+95140 - Project Planning and Management,95140,"The Course Teaches Models For Projects  Initiation, Planning,
+Management and Control Under Deterministic and Stochastic Conditions
+And Various Constraints. During The Course, The Students  Learn To
+Formulate and Solve Problems Via Various Approaches and Tools Such As#
+Linear and Integer Mathematical Programming, Dynamic Programming,
+Probabilistic Decision Trees and Simulation.","['94312 - Deterministic Mod.in Operations Research', '94314 - Stochastic Models in Oper.research', '94313 - Deterministic Models in Oper.research', '94314 - Stochastic Models in Oper.research', '94314 - Stochastic Models in Oper.research', '95295 - Algebraic Methods For Data Science', '94314 - Stochastic Models in Oper.research', '95296 - Algebric Methods For Data Science', '104034 - Introduction to Probability H', '236330 - Introduction to Optimization']","['(94312 - Deterministic Mod.in Operations Research and 94314 - Stochastic Models in Oper.research) or (94313 - Deterministic Models in Oper.research and 94314 - Stochastic Models in Oper.research) or (94314 - Stochastic Models in Oper.research and 95295 - Algebraic Methods For Data Science) or (94314 - Stochastic Models in Oper.research and 95296 - Algebric Methods For Data Science) or (104034 - Introduction to Probability H and 236330 - Introduction to Optimization)', '35046 - Management of Engineering Project\n95141 - Introduction to Project Management\n95142 - Introduction to Project Management Med.\n234270 - Software Project Management\n236270 - Software Project Management', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Noa Zychlinski', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Noa Zychlinski', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours']",14:30:00,False,True,True,N
+95219 - Writing Software For Machine Learning,95219,"In This Course You Will Learn Advanced Features of Python and Java,
+Writing Tests and Debugging Methodologies.
+Tools For Parallel Programming and Solving The Resulting Hurdles.
+The Use of Basic Linux Tools and Supporting Systems (such As
+Containers) and Continuous Integration Systems As Needed For
+Production Grade Ml System.","['44101 - Introduction to Software Systems', '94219 - Software Engineering', '234122 - Introduction to Systems Programming']","['44101 - Introduction to Software Systems or 94219 - Software Engineering or 234122 - Introduction to Systems Programming', '3 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Noam Cohen']",10:30:00,False,False,False,M
+95280 - Project in Machine Learning,95280,"Review of Research in Selected Topics in Machine Learning With An
+Emphasis On Topics That Are Relevant For Structured Data (structured
+Prediction, Probabilistic Graphical Models, Deep Neural Networks With
+An Emphasis On Convolutional and Recurrent Networks). Identifying A
+Research Problem That Can Lead to a Short Research Paper. Development
+And Implementation of Relevant Algorithms. Real-world Data
+Experiments. Research Will Be Summarized in a Final Report.","['96411 - Machine Learning 1', '97200 - Deep Learning', '97209 - Machine Learning 2']","['96411 - Machine Learning 1 or 97200 - Deep Learning or 97209 - Machine Learning 2', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 5 Project Hours', 'Roi Reichart', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 5 Project Hours', 'Roi Reichart', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 5 Project Hours']",15:30:00,False,False,False,N
+95296 - Algebric Methods For Data Science,95296,"Complementary Topics in Linear Algebra (inner Product Spaces, Norms,
+Orthonormal Bases, Eigenvalues and Eigenvectors), Matrix
+Decomposition (spectral Decomposition Theorem, Svd), Linear Systems,
+Least Squares, Iterative Methods For Singular Value Decomposition,
+Iterative Methods For Large-scale and Sparse Least Squares Problems,
+Perturbation Theorems For Matrix Decomposition, Introduction To
+Tensors.","['94345 - Discrete Mathematics (for I.e)', '104032 - Calculus 2m', '104166 - Algebra Am', '234117 - Introduction to Computer Science H', '94345 - Discrete Mathematics (for I.e)', '104016 - Algebra 1/extended', '104022 - Differential and Integral Calculus 2m', '234221 - Introduction to Computer Science N', '94347 - Discrete Mathematics', '104016 - Algebra 1/extended', '104022 - Differential and Integral Calculus 2m', '234221 - Introduction to Computer Science N']","['(94345 - Discrete Mathematics (for I.e) and 104032 - Calculus 2m and 104166 - Algebra Am and 234117 - Introduction to Computer Science H) or (94345 - Discrete Mathematics (for I.e) and 104016 - Algebra 1/extended and 104022 - Differential and Integral Calculus 2m and 234221 - Introduction to Computer Science N) or (94347 - Discrete Mathematics and 104016 - Algebra 1/extended and 104022 - Differential and Integral Calculus 2m and 234221 - Introduction to Computer Science N)', '95295 - Algebraic Methods For Data Science\n234125 - Numerical Algorithms', '238125 - Numerical Algorithms M', '4 Academic Credit\n                             • 3 Lecture Hours\n                             • 2 Discussion Hours', 'Dan Garber']",12:30:00,False,False,False,N
+95334 - Simulation - Modeling and Analysis,95334,"We Will Study Theoretical and Applied Aspects of Simulation, In
+Particular Monte Carlo Simulation and Discrete Event Simulation. The
+Course Will Include Three Main Parts. The First Part Will Focus On
+Generating Random Variables Using The Inversion, Acceptance-rejection
+And Composition Methods. We Will Learn How to Generate Non-correlated
+And Correlated Normal Variables As Well As Homogenous And
+Non-homogeneous Poisson Processes. The Second Part Will Be Devoted To
+Discrete Event Simulation, and Will Include Simulation of Queueing
+For a Variety of Systems Such As Service, Healthcare, Transportation,
+Systems, Markovian Chains and Inventory Systems. We Will Learn How To
+Construct and Analyze a Discrete Event Simulation Model in Pythonsim
+Logistic, Distribution and Project Management. The Third Part of The
+Course Will Focus On Variance Reduction Techniques and Importance
+Sampling.","['94314 - Stochastic Models in Oper.research', '94423 - Introduction to Statistics', '94314 - Stochastic Models in Oper.research', '94424 - Statistics 1']","['(94314 - Stochastic Models in Oper.research and 94423 - Introduction to Statistics) or (94314 - Stochastic Models in Oper.research and 94424 - Statistics 1)', '48986 - Stochastic Methods and Models\n94334 - Simulation-modeling and Analysis', '3.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 2 Discussion Hours\n                            \n                             • 1 Project Hours', 'Noa Zychlinski']",10:30:00,False,False,False,M
+95605 - Introduction to Psychology,95605,"This Course Examine If There Could Be an Engineering Model That
+Allows The Prediction of Human Behavior in Work and Training
+Environments. For This Purpose, We Review The Basic Experimental
+Methods, The Classical Experimental Findings and The Accepted
+Theoretical Approaches in The Social and Behavioral Science.
+Reviewed Models Include Those That Predict Behavior at The Group
+And Individual Level. We Also Discuss The Possibility Of
+Externally Modifying Human Behavior By The Use of Practice And
+Incentives. The Grade Will Be Based On a Test and a Final Project.","['94423 - Introduction to Statistics', '94424 - Statistics 1']","['94423 - Introduction to Statistics or 94424 - Statistics 1', '99636', '95604\n95677', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Vered Erev', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Vered Erev', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Vered Erev']",11:30:00,False,True,True,M
+95622 - Int. to Cognitive Neuroscience,95622,"A Cornerstone of Cognitive Science Is Applying Neuroscientific
+Approaches to Investigate How Neural Mechanisms Realize Cognitive
+Functions. This Course Will Introduce Cognitive Neuroscience
+Non-invasive Techniques Such As Mri, Eeg, and Brain Stimulation. It
+Will Examine How These Techniques Are Used to Study Cognitive
+Phenomena, E.g., Perception, Language, Memory, and Creativity.",[],"['2 Academic Credit\n                             • 2 Lecture Hours', 'Yoed N. Kenett']",15:30:00,False,False,False,N
+96120 - Quality Engineering,96120,"Quality Assurance (qa) Support Systems# Handbooks, Manuals,
+Standards, Information Systems. Vendor Rating. Reliability
+And Maintainability Issues. Quality Function Deployment
+(qfd). Qa in Design and Configuration Control. Waivers.
+Common Human Errors and Their Treatment. Metrology.
+Environmental Stress Screening (ess), and Acceptance
+Test Procedures (atp). Economics of Quality. Case Studies.","['94423 - Introduction to Statistics', '94424 - Statistics 1']","['94423 - Introduction to Statistics or 94424 - Statistics 1', '14917\n94445\n95411 - Principles of Quality Engineering', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Eitan Naveh', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Eitan Naveh', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Eitan Naveh']",10:00:00,False,False,False,M
+96122 - Analytics of Healthcare Networks,96122,"The Course Will Deal With an In-depth Analysis and Critical Reading Of
+Scientific Papers That Develop Mathematical Models For Applications
+In Healthcare Networks. The Course Will Focus On The Models  Usage
+And Their Results in Decision-making Processes While Integrating
+Medical, Operational and Economic Aspects. The Course Will Address
+Questions Related to The Analysis and Optimization of Patient Flow,
+Telemedicine Models, Decision-making Under Congestion and Uncertainty
+And Resource Allocation. The Emphasis Will Be On Understanding The
+Research Question, Considerations in Choosing The Model, Trade-offs,
+Solution Approach and Its Application. Each Week Two Students Will
+Present and Discuss a Different Paper. 
+_learning Outcomes# at The
+End of The Course The Students Will Be Able To#
+
+1. Critically Read Scientific Papers in The Covered Topics.
+
+2. Analyze Models and Mathematical Results Presented in The Papers.
+
+3. Analyze The Paper S Assumptions and Their Significance in Achieving
+The Results.
+
+4. Present a Scientific Paper in a Clear Understandable Way.
+
+5. Derive Conclusions and Identify Future Research Directions.
+
+6. Identify The Research Limitations.","['94314 - Stochastic Models in Oper.research', '94423 - Introduction to Statistics', '94314 - Stochastic Models in Oper.research', '94424 - Statistics 1']","['(94314 - Stochastic Models in Oper.research and 94423 - Introduction to Statistics) or (94314 - Stochastic Models in Oper.research and 94424 - Statistics 1)', '2 Academic Credit\n                             • 2 Lecture Hours', 'Noa Zychlinski']",13:30:00,False,False,False,N
+96200 - Mathematical Tools For Data Science,96200,"Set Theory# Cardinality of Sets. Topological Tools# Open/closed Sets,
+Interior, Closure and Boundary of Sets, Convexity, Convex Hull Of
+Sets, Compact Spaces, Weak Topology. Metric Spaces# Compactness,
+Cauchy Sequences and Completeness. Measure Theory and Functional
+Analysis# -algebras. Borel Sets, Lebesgue Measure and Integral.
+Jensen S Inequality, Radon Nikodym Derivative and Conditional
+Expectation, Types of Convergence, Lp Spaces, Hilbert Spaces, Fourier
+Transform and Characteristic Functions.
+
+Learning Outcomes#
+
+At The End of The Class Students Would#
+1. Be Able to Use Measure Theoretic Tools to Solve Problems In
+Problems Arising in Data Science Such As High Dimensional Probability
+And Statistics, Convex Optimization and Random Matrices. 
+
+2. Be Able to Model Conditioning On Random Information.","['94345 - Discrete Mathematics (for I.e)', '104032 - Calculus 2m', '104166 - Algebra Am', '94345 - Discrete Mathematics (for I.e)', '104016 - Algebra 1/extended', '104022 - Differential and Integral Calculus 2m', '94347 - Discrete Mathematics', '104016 - Algebra 1/extended', '104022 - Differential and Integral Calculus 2m']","['(94345 - Discrete Mathematics (for I.e) and 104032 - Calculus 2m and 104166 - Algebra Am) or (94345 - Discrete Mathematics (for I.e) and 104016 - Algebra 1/extended and 104022 - Differential and Integral Calculus 2m) or (94347 - Discrete Mathematics and 104016 - Algebra 1/extended and 104022 - Differential and Integral Calculus 2m)', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Asaf Levin', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Eviatar Procaccia', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Shlomi Laufer']",14:00:00,False,False,False,N
+96208 - Automatic Planning,96208,"Computational Foundations of Automated Planning. Classical Planning
+With No Uncertainty# Optimal and Semi-optimal Planning, State-space
+And Plan-space Search Algorithms, Automatic Construction of Search
+Heuristics, Planning As Iterative Constraint Satisfaction.
+Extensions to Planning With Quantitiative Resources and Qualitative/
+Stochastic Uncertainty. Application of Automated Planning In
+Autonomous Software and Hardware Systems.","['96210 - Foundations and Applications of Artifici', '236501 - Introduction to Artificial Intelligence']","['96210 - Foundations and Applications of Artifici or 236501 - Introduction to Artificial Intelligence', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 1 Project Hours', 'Erez Karpas', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 1 Project Hours', 'Erez Karpas', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 1 Project Hours']",13:30:00,False,False,False,N
+96210 - Foundations and Applications of Artifici,96210,"The Course Surveys Basic Ai Technologies and Their Applications
+In Industry. The Topics Are# Deductive Systems, Knowledge
+Representation, Introduction to Robotic Planning, Machine Perception.","['94224 - Data Structures and Algorithms', '94226 - Introduction to Algorithms', '234247 - Algorithms 1']","['94224 - Data Structures and Algorithms or 94226 - Introduction to Algorithms or 234247 - Algorithms 1', '236501 - Introduction to Artificial Intelligence', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Reshef Meir', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Reshef Meir']",10:00:00,True,False,True,M
+96211 - Electronic Commerce Models,96211,"Application of Information Technology (particulraly The Internet)
+To E-commerce Models. The Models Include Bayesian Equilibrium
+Techniques, Distributed Games, Combinatorial Auctions,other
+Trading Systems, Double Auction, Negotiations With Software
+Agents, Online Contracts. Analysis of E-commerce Companies.
+Requirements# Students Will Construct a Site With a Particular
+Trading System (using C++ Or Java).","['94224 - Data Structures and Algorithms', '94226 - Introduction to Algorithms']","['94224 - Data Structures and Algorithms or 94226 - Introduction to Algorithms', '94204 - Distributed Data and Rational Agents\n96570 - Game Theory and Economic Behavior', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Omer Ben-porat', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Omer Ben-porat', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Omer Ben-porat']",14:00:00,True,False,True,N
+96212 - Probabilistic Graphical Models,96212,"In The Course We Will Investigate Probabilistic Graphical Models
+(pgms) Which Combine Graph Theory and Probability Theory to Provide A
+Flexible Framework For Modelling Large Multivariate Distributions
+With Complex Interactions Between Its Random Variables. Pgms Have
+Become a Central Tool in a Wide Range of Applications That Include
+Natural Language Processing, Computer Vision, Computational Biology,
+And More. We We Learn How to Use Pgms to Compactly Represent Complex
+Systems and Perform Sophisticated Reasoning Tasks. in This Course We
+Will Cover The Fundamental Principles of Pgms That Include Knowledge
+Representation, Query Answering (inference), and Learning The
+Parameters and Structure of a Pgm From Data.
+ Learning Outcomes#
+At The End of The Course The Students Will Be Able To#
+
+1. Represent Multivariate Probability Distributions in a Pgm.
+
+2. Query The Pgm and Analyze The Computational Complexity Involved.
+
+3. Learn The Paarameters and Structure of a Pgm From Data.","['94224 - Data Structures and Algorithms', '96411 - Machine Learning 1']","['(94224 - Data Structures and Algorithms and 96411 - Machine Learning 1)', '2 Academic Credit\n                             • 2 Lecture Hours', 'Batya Kenig', '2 Academic Credit\n                             • 2 Lecture Hours', 'Batya Kenig', '2 Academic Credit\n                             • 2 Lecture Hours', 'Batya Kenig']",13:30:00,False,False,False,N
+96215 - Seminar in Information Systems,96215,"Research Problems With Applicative Aspects in Areas of Information
+Systems. The Exact Topics Will Be Decided Prior to Each Semester.","['94223 - מבני נתונים ואלגוריתמים', '94224 - Data Structures and Algorithms', '94226 - Introduction to Algorithms', '234247 - Algorithms 1']","['94223 - מבני נתונים ואלגוריתמים or 94224 - Data Structures and Algorithms or 94226 - Introduction to Algorithms or 234247 - Algorithms 1', '3 Academic Credit\n                             • 3 Lecture Hours', 'Roi Reichart', '3 Academic Credit\n                             • 3 Lecture Hours', 'Roi Reichart', '3 Academic Credit\n                             • 3 Lecture Hours', 'Ofra Amir']",0,False,False,False,M
+96222 - Language,96222,"The Course Will Survey Major Research Areas in Computational
+Psycholinguistics, a Field Which Combines The Study of Human Language
+Processing With Computational Linguistics.  The Course Covers
+Research in The Scientific Study of Language Processing And
+Acquisition in Humans and Machines, Combining Symbolic And
+Probabilistic Approaches. The Course Will Cover Topics Such As
+Grammar Formalisms, Language Models, Empirical Research
+Methodologies, Cognitive Theory of Language Processing, and Language","['46202 - Data Analysis', '94423 - Introduction to Statistics', '234128 - Introduction to Computing With Python', '46203 - Planning and Reinforcemet Learning', '94423 - Introduction to Statistics', '234128 - Introduction to Computing With Python', '94423 - Introduction to Statistics', '234128 - Introduction to Computing With Python', '236756 - Introduction to Machine Learning', '94700 - Introduction to Data Science and Engin.', '96411 - Machine Learning 1', '96411 - Machine Learning 1', '234221 - Introduction to Computer Science N']","['(46202 - Data Analysis and 94423 - Introduction to Statistics and 234128 - Introduction to Computing With Python) or (46203 - Planning and Reinforcemet Learning and 94423 - Introduction to Statistics and 234128 - Introduction to Computing With Python) or (94423 - Introduction to Statistics and 234128 - Introduction to Computing With Python and 236756 - Introduction to Machine Learning) or (94700 - Introduction to Data Science and Engin. and 96411 - Machine Learning 1) or (96411 - Machine Learning 1 and 234221 - Introduction to Computer Science N)', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Yevgeni Berzak', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Yevgeni Berzak', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Shlomi Laufer']",15:00:00,False,False,False,N
+96224 - Distributed Data Management,96224,"Distributed Data Management Issues (i.e.,  Distribution Design,
+Distributed Query Processing and Optimization and Distributed
+Transaction Management).  Reliability Issues in Distributed Data And
+Data Integration. Development of Tools For Data Integration Research.
+Cutting-edge Technologies of Cloud Computing.
+Learning Outcomes#
+At The End of This Course The Student Will Be Able to 1. Design A
+Distributed Database. 2. Propose a Query Execution Plan in Distributed
+Environment. 3. Design a Recovery Protocol When Managing Distributed
+Transactions. 4. Implement Data Integration Algorithms. 5. Design And
+Execute Experiments in a Data Integration Setting.","['94241 - Database Management', '236363 - Databases']","['94241 - Database Management or 236363 - Databases', '96225', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Avigdor Gal', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Avigdor Gal', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Batya Kenig']",15:30:00,True,False,False,N
+96226 - Computation,96226,"Issues Combining Computational and Game-theory And/or Economy.
+Topics# Approximating of Anarchy Price, Algorithmic Mechanism Design,
+Designing Auctions and Combinatorial Auctions, The Emergence of Power
+Laws and Bounded Rationality.","['46197 - Computational Methods in Optimization', '96211 - Electronic Commerce Models', '46197 - Computational Methods in Optimization', '96570 - Game Theory and Economic Behavior', '94204 - Distributed Data and Rational Agents', '95295 - Algebraic Methods For Data Science', '94313 - Deterministic Models in Oper.research', '96570 - Game Theory and Economic Behavior', '94313 - Deterministic Models in Oper.research', '96211 - Electronic Commerce Models', '96211 - Electronic Commerce Models', '236330 - Introduction to Optimization', '96211 - Electronic Commerce Models', '236359 - Algorithms 2', '96570 - Game Theory and Economic Behavior', '236330 - Introduction to Optimization', '96570 - Game Theory and Economic Behavior', '236359 - Algorithms 2']","['(46197 - Computational Methods in Optimization and 96211 - Electronic Commerce Models) or (46197 - Computational Methods in Optimization and 96570 - Game Theory and Economic Behavior) or (94204 - Distributed Data and Rational Agents and 95295 - Algebraic Methods For Data Science) or (94313 - Deterministic Models in Oper.research and 96570 - Game Theory and Economic Behavior) or (94313 - Deterministic Models in Oper.research and 96211 - Electronic Commerce Models) or (96211 - Electronic Commerce Models and 236330 - Introduction to Optimization) or (96211 - Electronic Commerce Models and 236359 - Algorithms 2) or (96570 - Game Theory and Economic Behavior and 236330 - Introduction to Optimization) or (96570 - Game Theory and Economic Behavior and 236359 - Algorithms 2)', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Reshef Meir', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Reshef Meir', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Reshef Meir']",11:30:00,False,False,False,M
+96231 - Math Models in Advanced Info.retrieval,96231,"Advanced Probabilistic Retrieval Methods, Advanced Stochastic Language
+Modeling Techniques, Term-proximity Models, Results Diversification
+Models, The Axiomatic Approach to Retrieval, Learning to Rank,
+Information-theoretic Retrieval Models, The Risk-reward Paradigm,
+Rank-aggregation/fusion, Using Topic Models For Retrieval.
+Learning Outcomes# at The End of The Course The Student Will
+1. Know How to Adapt and Apply The Matehamtical Models Taught In
+Class to New Problems, Be Able to Create Variants of The
+Models That Were Thught in Class For The Same Problems.
+2. Design an Em Algorithm For Performing Soft Clustering.
+Example. 3. Design a Risk-reward Algorithm For Diversifying
+Search Engine's Results.",['96262 - Information Retrieval'],"['96262 - Information Retrieval', '3 Academic Credit\n                             • 3 Lecture Hours', 'Oren Kurland', '3 Academic Credit\n                             • 3 Lecture Hours', 'Oren Kurland']",09:30:00,False,False,False,M
+96235 - Intelligent Interactive Systems,96235,"The Course Will Cover Theories and Methods From Artificial
+Intelligence and Human-computer Interaction Which Form The Basis For
+Intelligent Systems. It Will Review Examples of Intelligent Systems
+In Different Areas Such As Creativity and Health Care. It Will Review
+Algorithms and Design Principles and Methods For Evaluating
+Intelligent User Interfaces.
+Lertning Outcomes#
+At The End of The Course The Student Will Be Able To#
+1. Understand and Apply a Range of Artificial Intelligence
+Representations and Algorithms Such As Markov Decision Processes,
+Networks, Optimization and Natural Language Processing.
+2. Understand The Challenges in The Design of Intelligent Systems That
+Integrate Artificial Intelligence Algorithms to Support People, And
+In Particular The Challenges in Designing Interfaces That Combine
+System Autonomy.
+3. Design Experiments to Evaluate The Effectiveness and Usability Of
+Intelligent Interactive Systems.
+4. Analyze Real-world Problems and Formally Define Computational
+Problems That Address Parts of These Problems.","['96210 - Foundations and Applications of Artifici', '97215 - Methods in Natural Language Processing', '236501 - Introduction to Artificial Intelligence']","['96210 - Foundations and Applications of Artifici or 97215 - Methods in Natural Language Processing or 236501 - Introduction to Artificial Intelligence', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Ofra Amir', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Ofra Amir', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Ofra Amir']",11:00:00,False,False,False,M
+96244 - Research in Language Processing,96244,"This Course Teaches The Development of Natural Language Processing
+Methods For Exploring and Reasoning About Text As Data. The Course
+Will Cover The Research Cycle# Problem Definition, Data Collection,
+Model Design and Implementation, Experimental Design And
+Implementation, Result Analysis and Oral and Written Presentation.
+
+In Particular, The Course Will Deal With Classification Or Text
+Generation Tasks That Can Be Done Thanks to The New Large Language
+Models That Have Been Introduced in Recent Years. We Will Learn About
+The Complexity of Defining The Research Problem and How This
+Definition Is Closely Related to The Data Collection Process. We Will
+Cover Various Protocols For Data Collection and in Particular
+Processes For Ensuring The Quality of The Data Collected. Later, We
+Will Learn About Choosing a Suitable Learning Algorithm For a Given
+Problem, and How It Is Possible to Analyze The Results of Such An
+Algorithm, Even in Complex Cases Where The Agreement Between People
+Is Only Partial. Finally, We Will Learn How to Present Research
+Results in Writing and Orally Using Various Means.
+
+Learning Outcomes# at The End of The Course Studetns Will Be Able To#
+At The End of The Course Students Will Be Able To#
+
+
+1. Design New Text-based Research Problems.__
+
+2. Collect Data That Support Research On The Research Problem.
+
+3. Design and Implement Advanced Nlp Algorithms to Solve The Research
+Problem.
+
+4. Design and Implement an Experimental Setup to Evalate Their
+Soklution to The Research Problem. 
+ 5. Analyse The Results of Their
+Experiments Nad Present Their Conclusions in Both Oral and Written
+Manners.","['97215 - Methods in Natural Language Processing', '97216 - Natural Language Processing']","['97215 - Methods in Natural Language Processing or 97216 - Natural Language Processing', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Roi Reichart']",0,False,False,False,M
+96250 - Distributed Information Systems,96250,"Distribution at The Organizational Level and The Is Level.
+Architectures of Distributed Is. Distributed Data Bases.
+Communication Aspects. The Client/server Model. Case Studies.","['94210 - Computer Architecture and Operating Sys.', '94224 - Data Structures and Algorithms', '94210 - Computer Architecture and Operating Sys.', '94226 - Introduction to Algorithms', '94210 - Computer Architecture and Operating Sys.', '234247 - Algorithms 1']","['(94210 - Computer Architecture and Operating Sys. and 94224 - Data Structures and Algorithms) or (94210 - Computer Architecture and Operating Sys. and 94226 - Introduction to Algorithms) or (94210 - Computer Architecture and Operating Sys. and 234247 - Algorithms 1)', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Yuval Emek', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Noga Zur', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Roi Papo']",13:50:00,True,False,True,N
+96262 - Information Retrieval,96262,"Architecture of Search Engines, Performance Evaluation, Relevance
+Ranking (boolean, Vector-space, Probabilistic, Statistical Language
+Models), Modeling User Feedback, Web Retrieval, Machine-learning-based
+Classification, Clustering.","['94219 - Software Engineering', '94411 - Probability (ie)', '104009 - Linear Algebra M', '94219 - Software Engineering', '94412 - Probability (advanced)', '104167 - Algebra A']","['(94219 - Software Engineering and 94411 - Probability (ie) and 104009 - Linear Algebra M) or (94219 - Software Engineering and 94412 - Probability (advanced) and 104167 - Algebra A)', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Oren Kurland', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Oren Kurland', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Michael Gregory']",12:30:00,False,False,False,N
+96265 - Algorithms in Logic,96265,"The Course Covers Modeling of Decision Problems in Various Logic, And
+Algorithms (called ""decision Procedures"") For Solving Them. The
+Problems Include Classic Np Problems and Various Challenges Arising
+In The Formal Verification of Programs. Among Other Things, The Course
+Covers Algorithms For Solving The Satisfiability Problem Of
+Propositional Formulas (sat) and of Linear Systems. The Course Begins
+With Propositional Logic and First-order Logic.",['97447 - Intro. to Computability and Complexity'],"['97447 - Intro. to Computability and Complexity', '3 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 2 Project Hours', 'Ofer Strichman', '3 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 2 Project Hours', 'Ofer Strichman', '3 Academic Credit\n                             • 2 Lecture Hours\n                            \n                            \n                             • 2 Project Hours', 'Ofer Strichman']",14:30:00,False,False,False,N
+96266 - User Experience in Interactive Systems,96266,"Four Fundamental User Experience Design
+Activities#  User Needs Assessment, User and Context
+Requirements, Information Architiecture and Conceptual Design,
+Detailed Design and Prototyping.  Behavioral Aspects of Users And
+Groups, Cross-channel Experience. Learning Outcomes# at The End of The
+Course The Student Will 1. Be Familiar With and Understand
+Fundamental Concepts in User Experience 2. Understand Product Design
+And Development Case. 3. Be Able to Research and Analyze User
+And Usage Needs and Conduct The Design of The Product For User
+Experience.","['95605 - Introduction to Psychology', '96275 - The Human Factor in Data Collection']","['95605 - Introduction to Psychology or 96275 - The Human Factor in Data Collection', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Nirit Gavish', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Nirit Gavish', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Avi Parush']",11:00:00,False,False,False,M
+96275 - The Human Factor in Data Collection,96275,"The Acquisition of Principles and Considerations in Gathering Data
+From People, With Emphasis On Considerations From The Point of View
+Of The Respondent, Including Cognitive Abilities and Limitations That
+Influence The Design of The Tasks and The Motivation to Provide
+Responses and Ethical Issues.  Design Quality Checks For
+Data. The Course Covers Content From
+Psychology, Human Factors Engineering, Marketing, and Analysis of Big
+Data.
+Lerning Outcomes#
+At The End of The Course The Student Will#
+1. Know Methods For Collecting Big Data From People
+2. Understand The Limitations of Human Cognition in Providing Required
+Data
+3. Know How to Choose a Target Audience to Avoid Bias in Data
+Collection.
+4. Understand Ethical Issues in Data Collection.","['94201 - Introductio to Data Science', '94423 - Introduction to Statistics', '94423 - Introduction to Statistics', '94700 - Introduction to Data Science and Engin.', '94424 - Statistics 1', '94700 - Introduction to Data Science and Engin.', '96411 - Machine Learning 1']","['(94201 - Introductio to Data Science and 94423 - Introduction to Statistics) or (94423 - Introduction to Statistics and 94700 - Introduction to Data Science and Engin.) or (94424 - Statistics 1 and 94700 - Introduction to Data Science and Engin.) or 96411 - Machine Learning 1', '96620 - Introduction to Human Factors Eng', '94140 - Introduction to Man-machine Systems\n95618 - Human Performance', '3.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                             • 1 Lab Hours\n                             • 1 Project Hours', 'Liat Levontin', '3.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                             • 1 Lab Hours\n                             • 1 Project Hours', 'Liat Levontin', '3.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                             • 1 Lab Hours\n                             • 1 Project Hours', 'Rakefet Ackerman']",15:00:00,True,False,False,N
+96291 - Algorithmic and High-frequency Trading,96291,"Most of The Trades in Financial Markets Today Are Executed By
+Computerized Algorithms in a High-frequency Framework. We Will Study
+Various Methods to Design Such Algorithms. Most of These Methods
+Originate in The Area of Stochastic Control, Including Variational
+And Dynamic Programing Methods. These Methods Will Be Used to Solve
+Models of Portfolio Liquidation and Market Making, Among Others.
+Learning Outcomes#
+Students Will Be Able To#
+1.apply Variational and Dynamic Programing Methods to Solve Stochastic
+Control Problems That Arise From Algorithmic and High Frequency
+Trading.
+2.apply The Stochastic Control Methods in Order to Analyse Variations
+Of The Models That Are Studied in The Course Such As Portfolio
+Liquidation and Market Making.","['46868 - Foundations of Stochastic Processes', '94314 - Stochastic Models in Oper.research', '97510 - Continuous Time Models in Finance', '106429 - Stochastic Processes']","['46868 - Foundations of Stochastic Processes or 94314 - Stochastic Models in Oper.research or 97510 - Continuous Time Models in Finance or 106429 - Stochastic Processes', '2 Academic Credit\n                             • 2 Lecture Hours', 'Eyal Neumann', '2 Academic Credit\n                             • 2 Lecture Hours', 'Eyal Neumann', '2 Academic Credit\n                             • 2 Lecture Hours', 'Eyal Neumann']",13:30:00,False,False,False,N
+96292 - Predictive Analytics in Fintec,96292,"The Course Covers Practical Aspects of Predictive Analytics in The
+Financial Domain With Emphasis On Models of Risk, Pension, Real
+Estate, Insurance, Fraud, and Behavioral.
+Learning Outcomes#
+At The End of The Course The Student Will Be Able To#
+1. Apply Fundamental Concepts in Financial Technologies (fintech).
+2. Execute Prediction Models in Field of Finance.",['96411 - Machine Learning 1'],"['96411 - Machine Learning 1', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Achikam Ben Artzi', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Achikam Ben Artzi', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Achikam Ben Artzi']",15:30:00,False,False,False,N
+96311 - Theory and Algorithms For Optimization,96311,"Definitions in Optimization, Including Extended Real-valued Function,
+Gradients, Subgradients, and Feasible Descent Direction, Convex
+Conjugate Function. Necessary and Sufficient Conditions For
+Optimality of Unconstrained and Constrained Optimization -
+Stationarity, Kkt. From Optimality Conditions to Iterative Solution
+Methods# Gradient Descent, Subgradient, Projected Gradient And
+Proximal Gradient Algorithms and Their Convergence Analysis.
+Seperation Theorems and Lagrangian Based Duality. Examples From The
+The Worlds of Logistics, Machine Learning and Signal Processing. 
+
+Learning Outcmes# at The End of The Course The Students Will Be Able
+To#
+
+1. Differentiate Between Convex and Nonconvex Problems.
+
+2. Derive Dual Problems and Use Duality to Solve Optimization
+Problems.
+
+3. Program First-order Algorithms to Solve Structured Optimization
+Problems. 
+
+4. Prove Properties of Optimal Solutions of Continuous Optimization
+Problems.",['96327 - Nonlinear Models in Operations Research'],"['96327 - Nonlinear Models in Operations Research', '236330 - Introduction to Optimization', '97311 - Optimization 1\n98311 - Optimization 1', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Shimrit Shtern']",17:00:00,False,False,False,E
+96324 - Service Engineering,96324,"The Course Deals With Queueing-prone Service Systems, Subject To
+Some Interaction Between Human Customers and Servers (face-to-face,
+Phone-to-phone, ...) Examples Include Public Service Centers,
+Telephone Operators, Banks and Hospitals. We Shall Study Queueing
+Models (mainly Analytical and Empirical ) That Have Been Found
+Useful For The Support of Planning, Analysis and Control of Service
+Operations.","['94314 - Stochastic Models in Oper.research', '98413 - Stochastic Processes']","['94314 - Stochastic Models in Oper.research or 98413 - Stochastic Processes', '98805 - Topics On Service Operations For Manager', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Gal Mendelson', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Gal Mendelson', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours']",09:00:00,False,True,False,M
+96327 - Nonlinear Models in Operations Research,96327,"Topics# an Introduction to Nonlinear Optimization Theory That Deals
+With Minimization Or Maximization of an Objective Function Subject To
+Constraints With an Emphasis On Engineering Applications. Convex Sets
+And Functions. Kkt Conditions, Convex and Nonconvex Programming
+And Duality. Basic Iterative Algorithms. Applications in Economics,
+Learning, Signal and Image Processing. Commuunications and More.
+Matlab Foundation and The Cvx Software. Implementation to Algorithms
+In Matlab.","['94312 - Deterministic Mod.in Operations Research', '104022 - Differential and Integral Calculus 2m', '94313 - Deterministic Models in Oper.research', '104022 - Differential and Integral Calculus 2m', '95295 - Algebraic Methods For Data Science', '95296 - Algebric Methods For Data Science', '104013 - Differential and Integral Calculus 2t', '104035 - Ordinary Dif.equations and Calculus 2h', '104035 - Ordinary Dif.equations and Calculus 2h', '104134 - Modern Algebra H', '104168 - Algebra B', '104281 - Infinitesimal Calculus 2', '234125 - Numerical Algorithms']","['(94312 - Deterministic Mod.in Operations Research and 104022 - Differential and Integral Calculus 2m) or (94313 - Deterministic Models in Oper.research and 104022 - Differential and Integral Calculus 2m) or 95295 - Algebraic Methods For Data Science or 95296 - Algebric Methods For Data Science or (104013 - Differential and Integral Calculus 2t and 104035 - Ordinary Dif.equations and Calculus 2h) or (104035 - Ordinary Dif.equations and Calculus 2h and 104134 - Modern Algebra H) or (104168 - Algebra B and 104281 - Infinitesimal Calculus 2) or 234125 - Numerical Algorithms', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Nadav Hallak', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Nadav Hallak', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Eyal Gur']",12:00:00,True,False,False,N
+96336 - Optimization Methods in Machine Learning,96336,"Theory of Efficient Optimization Algorithms For Continuous
+Optimization Problems Arising in The Fields of Machine Learning And
+Big Data Analytics. Subjects Will Include# First-order Methods For
+Convex and Non-convex Optimization, Stochastic Optimization Methods
+For Convex and Non-convex Problems and Efficient Algorithms For
+Online Learning. Emphasis Will Be Given to The Development Of
+Efficient Algorithms With Rigorous Proofs of Their Computational
+Efficiency, As Well As The Development of Complementary Lower Bounds.
+Learning Outcomes#
+At The End of The Course The Student Will Know#
+1. to Understand The Principles, and to Implememt a Large Variety Of
+Important and Central Optimization Algorithms in The Field of Machine
+Learning.
+2. to Indenpendently Read and Understand Contemporary Litreature In
+The Fieald of Optimization Algorithms For Machine Learning.
+3. to Embark On Academic Reasearch (both Theoretical and Practical) In
+The Field.","['94411 - Probability (ie)', '94412 - Probability (advanced)', '104034 - Introduction to Probability H', '104222 - Probability Theory']","['94411 - Probability (ie) or 94412 - Probability (advanced) or 104034 - Introduction to Probability H or 104222 - Probability Theory', '2 Academic Credit\n                             • 2 Lecture Hours', 'Dan Garber', '2 Academic Credit\n                             • 2 Lecture Hours', 'Dan Garber', '2 Academic Credit\n                             • 2 Lecture Hours', 'Dan Garber']",10:30:00,False,False,False,M
+96351 - Polyhedral Methods For Integer Prog,96351,"Formulation of Integer Programming Problems, Polyhedral Structures,
+Integrality of Polyhedrons, Facets Defining Inequalities, Efficiency
+Of Algorithms, Complexity Theory, Soluton Methods For Integer
+Programming Problems# Cutting Planes, Column Generation, Branch And
+Bound, Lagrangian Duality, Dynamic Programming, Heuristics
+Algorithms.
+Learning Outcomes#
+At The End of The Course The Student Will#
+1. Understand The Quality of Different Modeling of Integer
+Programming Problems.
+2. Understand The Definition of a Polyhedron and Its Algebraic
+Properties.
+3. Be Able to Solve Integer Programing Problems With Various
+Solution Methods.","['94312 - Deterministic Mod.in Operations Research', '94313 - Deterministic Models in Oper.research']","['94312 - Deterministic Mod.in Operations Research or 94313 - Deterministic Models in Oper.research', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Asaf Levin', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Asaf Levin', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Asaf Levin']",15:30:00,False,False,False,N
+96411 - Machine Learning 1,96411,"Deal With Advanced Methods of Data Analsis and Will Cover Both
+Statistical and Machine Learning Tools For The Purpose of Analyzing
+Data, Visualization, Classification and Prediction. Specific Topics#
+Linear Regression, Classification, Pac Learning, Support Vector
+Machine, Resampling, Model Selection and Regularization, Decision
+Trees and Regression. Cluster Analysis. Learning Outcomes#
+Understanding The Theory of The Different Methods and Having The
+Ability to Apply It On Real Data.","['94423 - Introduction to Statistics', '234117 - Introduction to Computer Science H', '94423 - Introduction to Statistics', '234221 - Introduction to Computer Science N', '94423 - Introduction to Statistics', '234111 - Introduction to Computer Science', '94424 - Statistics 1', '234117 - Introduction to Computer Science H', '94424 - Statistics 1', '234221 - Introduction to Computer Science N', '94424 - Statistics 1', '234111 - Introduction to Computer Science']","['(94423 - Introduction to Statistics and 234117 - Introduction to Computer Science H) or (94423 - Introduction to Statistics and 234221 - Introduction to Computer Science N) or (94423 - Introduction to Statistics and 234111 - Introduction to Computer Science) or (94424 - Statistics 1 and 234117 - Introduction to Computer Science H) or (94424 - Statistics 1 and 234221 - Introduction to Computer Science N) or (94424 - Statistics 1 and 234111 - Introduction to Computer Science)', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Dan Garber', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Uri Shalit', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Dan Garber']",11:30:00,True,False,True,M
+96412 - Business Process Management and Mining,96412,"Business Processes Are Pervasive in Our Lives# in Banks,
+Telecommunication Centers, Web-services, and Even in Healthcare.
+Business Process Management (bpm) Focuses On Improving Company's
+Performance By Managing and Optimizing Its Processes. The Course
+Comprises Basic Concepts of Bpm Such As Process Modeling And
+Quantitative Analysis, As Well As Data-driven Methodology For
+Bpm, Namely Process Mining.
+Learning Outcomes# at The End of The Course The Students Will Know#
+1. Modeling Business Processes in Conceptual Languages, While Using
+State-of-the-art Software (signavio).
+2. Modeling Business Processes For Performance and Formal Analyses,
+Specifically, Using Petri Nets and Queueing Networks.
+3. Solve Process Data Quality Issues, and Analyzing The Influence
+Of Data Quality On Process Mining Algorithms.
+4. Process Mining, Specifically, Discovery, Conformance Checking
+Between Model and Data, and Model Enhancement For Process
+Performance Analysis.","['94344 - Discrete Mathematics (for I.e)', '234293 - Logic and Set Theory For Cs']","['94344 - Discrete Mathematics (for I.e) or 234293 - Logic and Set Theory For Cs', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 3 Project Hours', 'Arik Senderovich', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 3 Project Hours', 'Arik Senderovich']",18:30:00,False,False,False,E
+96414 - Industrial Statistics,96414,"Topics# Statistical Process Control. Control Charts For Attributes And
+Variables, Process Capability Cp, Cpk. Acceptance Sampling# Attributes
+And Variables, Standards. Regression#  Simple Linear, Multiple,
+Stepwise, Dummy Variables and Interaction. Concepts and Aims Of
+Experimental Design. Experiments With One and Two Factors, Analysis Of
+Variance (anova). Experiments# 2n  and 2n-k Series, Blocking.","['94423 - Introduction to Statistics', '94424 - Statistics 1', '94481 - Int.to Probability and Statistics']","['94423 - Introduction to Statistics or 94424 - Statistics 1 or 94481 - Int.to Probability and Statistics', '98419', '96410 - Statistical Quality Assurance', '68505 - Experimental Design and Analysis', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Jacqueline Asscher', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Jacqueline Asscher', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours']",14:30:00,False,False,False,N
+96425 - Time Series and Forecasting,96425,"Stationarity, Auto-correlation, Auto-regression Processes, Moving
+Averages, Parameter Estimation, Yule-walker Equations, Maximum
+Likelihood Estimation, Prediction, Spectral Representation,
+Spectral Estimation.","['94423 - Introduction to Statistics', '94312 - Deterministic Mod.in Operations Research', '94424 - Statistics 1', '94312 - Deterministic Mod.in Operations Research', '94423 - Introduction to Statistics', '94313 - Deterministic Models in Oper.research', '94424 - Statistics 1', '94314 - Stochastic Models in Oper.research', '94424 - Statistics 1', '94314 - Stochastic Models in Oper.research', '94423 - Introduction to Statistics']","['(94131 and 94423 - Introduction to Statistics) or (94312 - Deterministic Mod.in Operations Research and 94424 - Statistics 1) or (94312 - Deterministic Mod.in Operations Research and 94423 - Introduction to Statistics) or (94313 - Deterministic Models in Oper.research and 94424 - Statistics 1) or (94314 - Stochastic Models in Oper.research and 94424 - Statistics 1) or (94314 - Stochastic Models in Oper.research and 94423 - Introduction to Statistics)', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Yair Goldberg', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Yair Goldberg', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'David Azriel']",12:30:00,False,False,False,N
+96450 - Multiple Comparisons,96450,"Simultaneous and Selective Inference. Topics# Multiple Comparisons
+Problem, Error Rates, Power, Simultaneous Confidence Intervals,
+Multiple Comparison Procedures in Analysis-of-variance Model,
+Family-wise Error Rate Controlling Procedures, False Discovery
+Rate (fdr) Controlling Procedures, False Coverage Rate Controlling
+Confidence Intervals,
+Methods For Replicability Analysis, Applications in Genomics.
+Learning Outcomes#
+At The End of The Course The Student Will Be Able To#1. Identify
+Multiple Comparisons Problems in Applications and Find an Appropriate
+Method For False Discovery Control. 2. Implement The Multiple
+Comparison Procedures in Codes As Well As By Using Existing Software.
+3. Construct Family-wise Error Rate Controlling Procedures.
+4. Verify The Properties of Multiple Testing Procedures Theoretically
+And Via Numerical Simulations. 5. Compare Between Multiple Testing
+Procedures Theoretically and Via Numerical Simulations.","['94423 - Introduction to Statistics', '94424 - Statistics 1']","['94423 - Introduction to Statistics or 94424 - Statistics 1', '3 Academic Credit\n                             • 3 Lecture Hours', 'Marina Bogomolov', '3 Academic Credit\n                             • 3 Lecture Hours', 'Marina Bogomolov', '3 Academic Credit\n                             • 3 Lecture Hours', 'Marina Bogomolov']",12:30:00,False,False,False,N
+96475 - Design and Analysis of Experiments,96475,"This Course Includes Methods of Statistical Design and Experiments
+(doe). Design of Efficient Experiments, Correctly Analyzing Results,
+Presenting Them in a Clear Fashion. Both Industrial and Academic
+Experiments. Subjects Include# Two Level Full and Fractional
+Factorial Designs, Choice of Factors, Response Surface Design, Models
+For Data With Special Structure, Split Plot Designs, Robust Design,
+Randomized Block Designs. Use of The Statistical Software Jmp to Plan
+And Run Real Experiments As Projects and Do Classroom Active Learning
+Exercieses. 
+Learning Outcomes# at The End of  The Course The Studetns
+Will Be Able To#
+
+1. Choose an Experimental Design That Is Appropriate For a Particular
+Situation
+
+2. Analyze a Single Experiment.
+
+3. Analyze a Series of Experiments.
+
+4. Present Experimental Results Both Textually and Graphically.
+
+5. Build and Compare Designs Using Statistical Software.
+
+6. Execute Statistical Tests and Build Models Using Statistical
+Software.","['46010 - Statistical Inference', '94423 - Introduction to Statistics', '94424 - Statistics 1', '94481 - Int.to Probability and Statistics']","['46010 - Statistical Inference or 94423 - Introduction to Statistics or 94424 - Statistics 1 or 94481 - Int.to Probability and Statistics', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Jacqueline Asscher', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Jacqueline Asscher']",11:30:00,False,False,False,M
+96501 - Economics For Systems Engineers,96501,"Demand and Supply# Market Partial Equilibrium. Govrenment Micro Policy
+And Its Impact On The Equilibrium. The Expendinditure Function And
+Derivation of The Supply Function. Behavior in Different Market
+Structures#monopolistic and Imperfect Competition. The National
+Market#the National Accounts. Measuring The National Product. The
+Interest Rate and Its Impact On Investment. The Demand For Money. The
+Commercial Banks. The Central Bank and Money Supply. Equilibrium In
+The Money-market and General Equilibrium.
+Government Macro Policy and Its Impact On The National Product,
+Interest and Inflation Rats. Basic Concepts in Financial
+Management.",[],"['96500', '94591 - Introductory Economics\n94594 - Principles of Economics For Engineers', '98750 - Managerial Economics\n98751 - Macro Economics For Managers', '3 Academic Credit\n                             • 3 Lecture Hours', 'Elyakim Ben-hakoun', '3 Academic Credit\n                             • 3 Lecture Hours', 'Aviv Rosen', '3 Academic Credit\n                             • 3 Lecture Hours', 'Elyakim Ben-hakoun']",0,False,False,False,M
+96553 - Environmental Economics,96553,"The Contribution of Economic Theory to The Analysis of Natural
+Resources and Environmental Problems (air and Water Pollution,
+Determining The Amount of Open Spaces). Market Failure# Commodities
+Which Generate 'market Failure' and The Determination of Their Optimal
+Quantity. Economic Instruments to Solve Market Failure (taxes,
+Subsidies, Quotas). Economic Methods to Evaluate The Benefits/costs Of
+Environmental Change.","['94503 - Microeconomics 1', '94591 - Introductory Economics', '94594 - Principles of Economics For Engineers', '96520 - Microeconomic Theory 1', '207804 - Economic Thinking For Planners']","['94503 - Microeconomics 1 or 94591 - Introductory Economics or 94594 - Principles of Economics For Engineers or 96520 - Microeconomic Theory 1 or 207804 - Economic Thinking For Planners', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Elyakim Ben-hakoun', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Elyakim Ben-hakoun']",17:30:00,False,False,False,E
+96556 - Options Markets,96556,"The Course Studies Options Markets, Option Pricing Models,
+And Applications of These Models For Dynamic Hedging and Arbitrage.",['94564 - Introduction to Financial Management'],"['94564 - Introduction to Financial Management', '98778 - Introduction to Derivatives Markets', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Mahmoud Qadan', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Mahmoud Qadan', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Mahmoud Qadan']",17:30:00,False,False,False,E
+96570 - Game Theory and Economic Behavior,96570,"Topics# 1. One-stage Games# Dominated Strategies, Safety Level And
+Equilibrium. 2. Games With Incomplete Information and Mechanisms
+Design. 3. Mixed Strategies# Expected Utility, Risk Attitude And
+Equilibrium in Mixed Strategies. 4. Multistage Games# Games With
+Perfect and Almost Perfect Information, Repreated Games.","['94411 - Probability (ie)', '94412 - Probability (advanced)']","['94411 - Probability (ie) or 94412 - Probability (advanced)', '94204 - Distributed Data and Rational Agents\n96575 - Non-cooperative Games\n106173 - Game Theory', '98753 - Game Theory For Managers: Auctions', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Yakov Babichenko', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Yakov Babichenko', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Omer Madmon']",12:00:00,True,False,True,N
+96576 - Learning and Complexity in Game Theory,96576,"The Course Focuses On The Convergence to Nash and Correlated
+Equilibria. We Discuss The Following Topics#regret-based Learning
+And Its Convergence to Correlated Equilibrium, The Communication
+Complexity Model and Its Connection to Learning Rate, and Complexity
+Of Equilibrium Computation in Different Models Including Communication
+Complexity, Query Complexity, and Computational Complexity.
+Learning Outcomes#
+At The End of The Course The Knowledge of The Student Will Include#
+1. Several Basic Results Regarding Learning and Complexity Of
+Equilibria.
+2. Blackwell's Approachability Theorem.
+3. Borel-cantelli Lemma.
+4. Martingales, and Azuma Inequality.
+5. Communication Complexity Model.
+These Tools Have Many Applications Out of The Game Theory Field.","['94411 - Probability (ie)', '106173 - Game Theory', '94412 - Probability (advanced)', '106173 - Game Theory', '96570 - Game Theory and Economic Behavior', '96575 - Non-cooperative Games', '104034 - Introduction to Probability H', '106173 - Game Theory']","['(94411 - Probability (ie) and 106173 - Game Theory) or (94412 - Probability (advanced) and 106173 - Game Theory) or 96570 - Game Theory and Economic Behavior or 96575 - Non-cooperative Games or (104034 - Introduction to Probability H and 106173 - Game Theory)', '2 Academic Credit\n                             • 2 Lecture Hours', 'Yakov Babichenko']",08:30:00,False,False,False,M
+96578 - Social Choice and Preference Aggregation,96578,"Axioms of Social Choice# May S Theorem, Common Voting Rules, Pagerank,
+Condorcet S Paradox and Arrow S Theorem. Voting Rules As
+Maximum-likelihood Estimators. Preference Structures# Single-peaked
+And Combinatorial Preferences, Generative Models With Ground Truth
+(placket-luce) and Without (urn).
+Strategic Voting# Gibbard-satterthwaite Theorem, Complexity Barriers
+And Vcg, Equilibrium Models, Heuristics, Iterative Voting And
+Convergence. Homework Will Be in The Python Programming Language.
+Learning Outcomes#
+
+At The End of The Course The Students#
+
+1. Will Know to  Understand The Conceptual, Computational, And
+Strategic Challenges of Aggregating Preferences.
+2. Will Be Able to Spot Problems and Underlying Assumptions of Known
+And New Voting Mechanisms.
+3. Will Be Able to Choose And/or Design an Appropriate Mechanism For
+Aggregating Preferences in Various Contexts.","['44268 - Int. to Data Structur and Algorithms', '104034 - Introduction to Probability H', '94224 - Data Structures and Algorithms', '94411 - Probability (ie)', '94224 - Data Structures and Algorithms', '94412 - Probability (advanced)', '94226 - Introduction to Algorithms', '94411 - Probability (ie)', '94412 - Probability (advanced)', '234247 - Algorithms 1', '104222 - Probability Theory', '234247 - Algorithms 1', '104222 - Probability Theory', '104291 - Combinatorial Algorithms']","['(44268 - Int. to Data Structur and Algorithms and 104034 - Introduction to Probability H) or (94224 - Data Structures and Algorithms and 94411 - Probability (ie)) or (94224 - Data Structures and Algorithms and 94412 - Probability (advanced)) or (94226 - Introduction to Algorithms and 94411 - Probability (ie)) or (94412 - Probability (advanced) and 234247 - Algorithms 1) or (104222 - Probability Theory and 234247 - Algorithms 1) or (104222 - Probability Theory and 104291 - Combinatorial Algorithms)', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Reshef Meir', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Gili Bielous', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Reshef Meir']",12:00:00,False,False,False,N
+96582 - Advanced Topics in Economic,96582,"Problems On Which Current Economic Research Focuses and Will Present
+Students With New Contributions in These Areas. The Specific Topics
+Will Be Determined By The Teacher.
+Spring Semester# Financial Risk Management","['94591 - Introductory Economics', '94594 - Principles of Economics For Engineers']","['94591 - Introductory Economics or 94594 - Principles of Economics For Engineers', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Ido Erev', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Gal Zahavi']",08:30:00,False,False,False,M
+96589 - Advanced Econometrics,96589,"The Course Deals With Econometric Modelling, Estimation And
+Statistical Inference. The Methodology Covered Is Suitable For Typical
+Micro, Macro and Financial Data. The Course Will Endow The Student
+With Experience in Empirical Applications of The Theory to Real
+Economic Data.",[],"['98581 - Advanced Econometrics', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Avishai Aish', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Rann Smorodinsky', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Avishai Aish']",09:30:00,False,False,False,M
+96600 - Organizational Behavior,96600,"Models and Tools For Analysis of Individual Behavior in Organizational
+Settings. Dynamics On Three Levels. The Organizational Level
+(the Organization As an Entity Operating in The  Environment
+Of Other Organizations and Various Constraints). The Group Level
+(departments, Divisions and Committees) and The Individual Level
+(employees) That Influence The Quality of Management and Performance.
+Topics# Introduction to The Origins of The Scientfic Study Of
+Management and Organizational Behavior, Organizational Structure And
+Culture, Human Resources Management, Groups and Teams, Power And
+Leadership, Perception and Decision Making and Employee Motivation.",['95605 - Introduction to Psychology'],"['95605 - Introduction to Psychology', '90056', '98602 - Behavior in Organizations', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Dana Harari', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Dana Harari', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Andrey Elster']",14:00:00,False,False,False,N
+96606 - Behavioral Econ. in Technological Env.,96606,"The Course Critically Reviews Major Theories and Methods In
+Behavioral Economics, Focusing On Applications Designed to Influence
+Behavior in Technology-rich Environments. We'll Analyze Effective And
+Ineffective Behavioral Economics Implementations, Understand
+Opportunities and Challenges Behavioral Tendencies Present, And
+Develop Guidelines to Properly Apply Behavioral Economics In
+User-centered Mechanisms and Technological Applications.
+Learning Outcomes#
+At The End of The Course The Student Will Be Able To#
+1. Describe Key Behavioral Economics Methods Designed to Influence
+Behavior, Explain The Theoretical Ideas That Underlie Them, And
+Evaluate Their Relative Advantages and Disadvantages.
+2. Reasonably Predict If and to What Extant a Behavioral Economics
+Intervention Is Expected to Be Effective and Whether It Can Have
+Unintended Consequences, in Research and in Real World Applications.
+3. Design Effective Behavioral Interventions to Increase The
+Chances of Success of Human-centered Mechanisms and Technological
+Applications.
+4. Apply Behavioral Economics Interventions in Their Daily Lives
+And in The Development of Technological Products.","['95605 - Introduction to Psychology', '96275 - The Human Factor in Data Collection']","['95605 - Introduction to Psychology or 96275 - The Human Factor in Data Collection', '96617 - Cognition and Decision Making', '3 Academic Credit\n                             • 3 Lecture Hours', 'Ori Plonsky', '3 Academic Credit\n                             • 3 Lecture Hours', 'Ori Plonsky', '3 Academic Credit\n                             • 3 Lecture Hours', 'Ori Plonsky']",11:30:00,False,False,False,M
+96609 - Quan. Models in Behavioral Sciences,96609,"Main Applications of Quantitative and Computational Models In
+Behavioral Sciences# Classical Models Development. Weber, Fechner
+And Stevens Laws, Prospect Theory and The Rescola-wagner Model.
+The Development of Teaching Software Based On The Model of The
+Student.",[],"['94219 - Software Engineering\n94312 - Deterministic Mod.in Operations Research\n94313 - Deterministic Models in Oper.research\n95606', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Andrei Teodorescu', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Andrei Teodorescu', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Andrey Elster']",16:30:00,False,False,False,E
+96617 - Cognition and Decision Making,96617,"The Course Examines The Way People Make Decisions and Solve
+Problems. Normative Decision Theory Will Be Reviewed, and The
+Cognitive Basis of Human Decision Processes Will Be Discussed
+In The Light of Experimental Results. Conditions Under Which
+Suboptimal Decisions Are Made (violations of The Normative Theory
+And Social Dilemmas) Will Be Emphasized.","['94411 - Probability (ie)', '94412 - Probability (advanced)', '94481 - Int.to Probability and Statistics', '104034 - Introduction to Probability H', '104222 - Probability Theory']","['94411 - Probability (ie) or 94412 - Probability (advanced) or 94481 - Int.to Probability and Statistics or 104034 - Introduction to Probability H or 104222 - Probability Theory', '96606 - Behavioral Econ. in Technological Env.', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Ido Erev', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Ido Erev', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Ori Plonsky']",17:30:00,False,False,False,E
+96620 - Introduction to Human Factors Eng,96620,"Topics# Analyzing The Relationship Between People and Technology
+In Existing Products and Newly Designed Ones.
+Cognitive Information Processing, Learning and Response Selection,
+Taking Into Account Common Human Errors in Enhancing Product
+Usability and Safety.","['94423 - Introduction to Statistics', '95605 - Introduction to Psychology', '94424 - Statistics 1', '95605 - Introduction to Psychology']","['(94423 - Introduction to Statistics and 95605 - Introduction to Psychology) or (94424 - Statistics 1 and 95605 - Introduction to Psychology)', '96275 - The Human Factor in Data Collection', '94140 - Introduction to Man-machine Systems\n95618 - Human Performance', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Rakefet Ackerman', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Tirza Lauterman', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours']",16:00:00,False,False,False,E
+96622 - Identity and Group Processes,96622,"And The Brain. 
+ Learning Outcomes# at The End of The Course Students
+Will Be Able To#
+
+-explain The Major Questions, Theories and Research Methods in The
+Areas of Language Processing and Cognition.
+
+- Elaborate On Central Empirical Findings in The Study of Human
+Language Processing and How They Are Modeled Computationaly.
+
+- Write Formal Grammars For Natural Language, and Use Computational
+Models Such As Language Models and Word and Sentence Embeddings.
+- Design and Implement Experiments Which Examine The Ability of These
+Tools to Model Various Linguistic Phenomena, Reading Times and Neural
+Activity During Language Processing.
+ Learning Outcomes# at The End
+Of The Course, Students Will Be Able To#
+- Apply a Group-based Perspective to The Analysis of Fundamental
+Individual-level Processes.
+- Conduct a Theory-grounded Analysis of Complex Social Phenomena.
+- Develop Interventions to Mitigate Intergroup Conflicts.",['96600 - Organizational Behavior'],"['96600 - Organizational Behavior', '2 Academic Credit\n                             • 2 Lecture Hours', 'Andrey Elster', '2 Academic Credit\n                             • 2 Lecture Hours', 'Andrey Elster', '2 Academic Credit\n                             • 2 Lecture Hours', 'Andrey Elster']",11:30:00,False,False,False,M
+96625 - Cognition in Information Visualization,96625,"Information Visualization Is The Visual Representationf of Data To
+Convey Information. Effective Visualization Takes Into Consideration
+Human Visual Perception and Cognition. This Course Surveys
+The Fundamentals of Human Visual Perception, The Basic Attentional
+And Cognitive Processes of Understanding and Utilizing Visual
+Information. This Understanding Is Applied in Developing Effective
+Visualizations of Big Data
+Learning Outcomes#1. The Student Will Outline Fundamentals
+Principles in Visual Perceptios  2. The Student Will Outline
+Fundamentals Principless of Cognitive Processes
+Related to Visual Information  3. The Student
+Will Analyze and Critique Examples of Information Visualization As
+A Function of Human Perception and Cognition Processes
+4.the Student Will Develop and Test The Effectiveness of Big Data
+Information Visualization","['95605 - Introduction to Psychology', '96275 - The Human Factor in Data Collection']","['95605 - Introduction to Psychology or 96275 - The Human Factor in Data Collection', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                             • 1 Lab Hours\n                             • 2 Project Hours', 'Yael Albo', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                             • 1 Lab Hours\n                             • 2 Project Hours', 'Yael Albo', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                             • 1 Lab Hours\n                             • 2 Project Hours', 'Avi Parush']",12:30:00,False,False,False,N
+96644 - Environmental Psychology,96644,"He Course Will Deal With Theories, Research Questions, and Research
+Methods Prevalent in The Field of Environmental Psychology and Will
+Focus On Three Topics Related to Humans and The Natural Environment#
+(1) Environmental Effects On Human Behavior and Well-being, (2)
+Factors That Influence Environmental Behavior and (3) Encouraging
+Pro-environmental Behavior. The Course Will Accompany Students In
+Critical Reading of Scientific Articles in The Field of Environmental
+Psychology. Students Will Present Academic Papers During The Course
+And Submit a Research Proposal As Their Final Assignment. 
+
+Learning Outocmes# at The End of The Course Students Will Be Able To#
+
+- Analyze The Ways in Which The Natural Environment Influences
+Emotions and Behavior.
+
+- Describe The Ways in Which Values, Norms, and Habits Influence
+Environmental Behavior.
+
+- Apply Critical Thinking Skills to Evalutae Different Research
+Methods in Environmental Psychology.
+
+- Formulate Empirical Research Questions in Environmental Psychology.
+
+- Design an Experiment in Environmental Psychology.","['95605 - Introduction to Psychology', '96275 - The Human Factor in Data Collection']","['95605 - Introduction to Psychology or 96275 - The Human Factor in Data Collection', '2 Academic Credit\n                             • 2 Lecture Hours', 'Atar Herziger']",13:30:00,False,False,False,N
+96690 - Behavioral Economics,96690,"The Course Focuses On The Effect of Economic Incentive On Human
+Behavior. It Reviews Basic Research in Game Theory and Behavioral
+Economics, and The Practical Implications of This Research.  The
+Students Will Learn to Design Experiments, Use Models That Allows
+Useful Prediction of The Impact of Experience On Behavior, And
+Evaluation of The Value of Distinct Organizational Problems.
+Learning Outcomes#
+At The End of The Course The Students Will Know How#
+1.to Imply The Classical Findings in Behavioral Economics.
+2.to Derive The Prediction of The Leading Models in Behavioral
+3.to Use Experimental Methods to Develop Descriptive Models.
+5.to Design Organizational Settings to Minimize Social Conflicts.
+4.to Use Computer Simulations to Compare Behavioral Models.","['95605 - Introduction to Psychology', '96275 - The Human Factor in Data Collection']","['95605 - Introduction to Psychology or 96275 - The Human Factor in Data Collection', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Kinneret Teodorescu', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Kinneret Teodorescu']",16:30:00,False,False,False,E
+96693 - Psychological and Cognitive Networks,96693,"Network Science Offers Computational Means to Study Complex Systems As
+Networks. in Psychology and Cognition, The Use of These Tools To
+Study and Understand Complex Human Behavior Is Constantly Increasing.
+This Course Will Introduce The Concepts, Theory and Methodology
+Central to The Application of Networks to Study The Minds
+Complexity.
+Learning Outcomes#
+At The End of The Course, Students Will Be Able To#
+1 See Networks Everywhere.
+2 Understand The Field of Network Science and How Network Science
+Methods Are Currently Being Used in Psychology and Cognitive
+Sciences.
+3 Critically Read  Network Science Articles in The Fields Of
+Psychology and Cognitive Sciences.
+4 Apply Network Science Concepts to Dataanalysis.","['94423 - Introduction to Statistics', '95605 - Introduction to Psychology', '94424 - Statistics 1', '95605 - Introduction to Psychology', '96275 - The Human Factor in Data Collection']","['(94423 - Introduction to Statistics and 95605 - Introduction to Psychology) or (94424 - Statistics 1 and 95605 - Introduction to Psychology) or 96275 - The Human Factor in Data Collection', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Yoed N. Kenett', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Yoed N. Kenett', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Yoed N. Kenett']",10:30:00,False,False,False,M
+96694 - Metacognition,96694,"The Course Deals With The Way People Assess Their Level of Knowledge
+During Learning, Problem Solving, and Question Answering and Regulate
+Their Mental Efforts in Light of These Assessment.
+Practical Implications and Potential Applications of Theoretical
+Frameworks Are Discussed.","['96275 - The Human Factor in Data Collection', '96620 - Introduction to Human Factors Eng']","['96275 - The Human Factor in Data Collection or 96620 - Introduction to Human Factors Eng', '98694 - Metacognition', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Rakefet Ackerman', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Rakefet Ackerman', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Tirza Lauterman']",12:30:00,False,False,False,N
+96807 - Social Ventures,96807,"Methods and Tools That Help Implement Win-win Business Models
+And Strategies, Taking Into Account The Interests of All
+Stakeholders, Including# Shareholders, Society and The Environment
+(triple Bottom  Line).
+Learning Outcome#
+At The Conclusion of The Course, Students Will# 1. Understand How
+New Business Models in Society Help Improve The Welfare of All
+Stakeholders in an Economy. 2. Know How to Implement The Concepts
+And Tools in Projects of Social Ventures Developed and Managed
+During The Course. 3. Absorb and Use Key Concepts and Tools
+(i.e., The Three Bottom Line, The Fourth Sector, The New Cooperative,
+The Lean Startup Methodology, Lean Canvas, The Service Profit Chain
+And Benchmarking).",[],"['3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Moshe Davidow', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Moshe Davidow', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Moshe Davidow']",10:00:00,False,False,False,M
+96820 - Customer Relationship Management,96820,"Customer Relationship Management Systems Enable The Organization To
+Manage The Relationship With a Wide Variety of Customers and to Adapt
+The Marketing Mix, Including Service, Pricing and Promotion, to The
+Individual Level Customer, Both End Users and Business Customers .
+The Course Deals With Marketing and Technological Issues Related To
+The Building of Customer Relation Management Systems.  Emphasis Is
+Given to Efficient Data Gathering and Analysis.",['97800 - Marketing Principles'],"['97800 - Marketing Principles', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours\n                             • 5 Lab Hours', 'Moshe Davidow', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours\n                             • 5 Lab Hours', 'Moshe Davidow']",14:00:00,False,False,False,N
+97135 - Multidisciplinary Research in Service,97135,"We Will Focus On Advanced Models For Service System Operation And
+Analysis, E.g. Hospitals and Banks. Lectures Will Be Given On
+Multi-disciplinary Research Papers and New Developments in The Field.
+Emphasis Will Be Placed On Research Methodologies Such As Asymptotic
+Analysis For Staffing, and Empirical Models For Data Analysis.
+Learning Outcomes# The End of The Course The Student Will Be Able To#
+1. Model Engineering /research Problems in The Area of Service
+Systems Operations Using Advanced Methodologies From Different Fields
+(math, Statistics, Machine Learning)
+2. Analyze Service Systems From a Multi-disciplinary Perspective.
+3. Investigate a Small Research Problem Related to Service Systems.
+4. Apply Research Papers to Concrete Problems in The Field.",['96324 - Service Engineering'],"['96324 - Service Engineering', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 2 Project Hours', 'Galit Yom-tov', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 2 Project Hours', 'Galit Yom-tov', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 2 Project Hours', 'Galit Yom-tov']",14:00:00,False,False,False,N
+97139 - Advanced Supply Chain Management,97139,"Advanced Operational Models For The Management
+Of Supply Chains.   Deterministic/stochastic, Single
+Item/multi-item, Serial/network Structures.
+Cooperative/competitive and Consumable/repairable Models.
+The Course Relies On Quantitative Tools I.e.,
+Mathematical Programming, Heuristics and Simulation.",['94139 - Manage. Logist. System.'],"['94139 - Manage. Logist. System.', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Yale Herer', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Liron Yedidsion']",13:00:00,False,False,False,N
+97140 - Advanced Project Management Techniques,97140,"New Process Oriented Techniques For Project Management. Processes For
+Determining Scope, Schedule, Recources and Cost, Managing Risks,
+Procurement, Communication and Project Control. Processes Of
+Modern Information Technology.",['95140 - Project Planning and Management'],"['95140 - Project Planning and Management', '99114', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Michal Iluz-mimoni', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Michal Iluz-mimoni', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Michal Iluz-mimoni']",18:00:00,False,False,False,E
+97209 - Machine Learning 2,97209,"The   Course Will Present Advanced Topics in Machine Learning That
+Emerge From Current Deep Learning Architectures, Emphasizing Their
+Ability to Fit to a Training Sample and Their Generalization
+Capability As Well As Generative Learning of Data From Learned
+Probability Distribution.
+ Learning Outcomes# at The End of The Course
+The Students Will Be Able To#
+
+- Develop and Execute Neural Nets.
+
+- Develop and Execute Convolutional Neural Nets.
+
+- Run Learning Pipeline of Train/validation/test Including A/b Testing
+- Evaluate Overfitting.
+
+- Mitigate Overfitting and Identify Generalization.",['96411 - Machine Learning 1'],"['96411 - Machine Learning 1', '46211 - Deep Learning\n236781 - Deep Learning On Computation', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Tamir Hazan', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Hedda Cohen Indelman']",11:00:00,True,False,False,M
+97215 - Methods in Natural Language Processing,97215,"The Course Covers Algorithms For The Understanding of Texts Written
+In Human Language. Among The Covered Topics Are# Tagging Tasks
+(part of Speech and Named Entity), Syntactic Parsing and Lexical
+Semantics. The Course Will Put an Emphasis On Machine Learning
+Algorithms For Structured Learning and Probabilistic Graphical Models.
+Learning Outcomes#
+At The End of The Course The Student Will Know#
+1. to Formulate The Various Tasks an Algorithm Should Solve in Order
+To Gain Understanding of a Text.
+2. to Design and Implement in Software Algorithms For Markovian
+Language Models.
+3. to Design and Implement in Software Algorithms For Sequential
+Tagging Tasks Such As Part of Speech (pos) Tagging and Named Entity
+Recognition (ner).
+4. to Design and Implement in Software Algorithms For Learning Complex
+Structures (such As Trees) in Order to Solve Problems Such As
+Statistical Syntactic Parsing (dependency As Well As Phrase Structure
+Parsing).
+5. to Design and Implement Algorithms That Learn The Semantics Of
+Words, Phrases and Sentences in The Vector Space Modeling Framework.
+6. to Design and Implement Dynamic Programming Algorithms, Algorithms
+For Inference in Graphical Models and Parameter Estimation Algorithms
+In Order to Solve Sentence and Text Structure Learning Problems.","['46195 - Machine Learning', '46202 - Data Analysis', '46203 - Planning and Reinforcemet Learning', '96411 - Machine Learning 1', '236756 - Introduction to Machine Learning']","['46195 - Machine Learning or 46202 - Data Analysis or 46203 - Planning and Reinforcemet Learning or 96411 - Machine Learning 1 or 236756 - Introduction to Machine Learning', '97216 - Natural Language Processing\n236299 - Intr. to Natural Language Processing', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Eyal Ben David', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Roi Reichart', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Yevgeni Berzak']",12:30:00,False,False,False,N
+97217 - Seminar in Natural Language Processing,97217,"The Course Will Cover Contemporary Topics in Natural Language
+Processing (nlp) From Various Perspectives# Data, Hypotheses,
+Modeling, Experiments, Evaluation and Critical Discussion. Topics
+Will Include# Multilingual, Cross-domain and Multi-modal Learning,
+Causal Inference in Nlp, Model Interpretability, and Nlp For Social
+Science and Medicine. The Ethical and Societal Implications Will Be
+Emphasized.
+Learning Outcomes# at The End of Course The Students
+Will Be Able To#
+
+- Conduct a Small-scale Research Project On a State-of-the-art Problem
+In Natural Language Processing. 
+
+- Identify The Main Literature Related to a Concrete Natural Language
+Processing Problem and Write a Critical  Summary of This Literature.","['97215 - Methods in Natural Language Processing', '97216 - Natural Language Processing']","['97215 - Methods in Natural Language Processing or 97216 - Natural Language Processing', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Roi Reichart', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Roi Reichart']",11:00:00,False,False,False,M
+97222 - Computer Vision ¸ Surgical Applications,97222,"The Course Will Investigate Ways of Analyzing Data in The Surgical
+Domain, Especially Related to The Operating Room. Data Will Include
+Video, Audio, Patient Monitor and Additional Sensors. We Will Study
+Fundamental Algorithms in Computer Vision and Video Segmentation, For
+Example# Object Deteaction (yolo, Agnet), Temporal Video Segmentation
+(lstm, Ms-tcn++, Asformer) and Automatic Process Analysis. We Will
+Study Ways of Implementing These Algorithms in The Surgical Domain,
+For Example Automatic Surgical Tool Detection, Surgical Hand
+Detection and Motion Analysis, Surgical Gesture Recognition And
+Automatic Surgical Workflow Analysis. 
+ Learning Outcomes#
+
+At The End of The Course Students Will Be Able To#
+1) Identify Different Surgical Approaches and Their Data_.
+
+2) Solve Object Detection and Cassification Tasks Using Deep Neural
+Networks (dnn).
+
+3) Program Temporal Networks For Surgical Workflow Analysis.
+4) Solve Automatic Gesture Recognition. 
+
+5) Integrate Motion Data and Video Data.","['46211 - Deep Learning', '97200 - Deep Learning', '97209 - Machine Learning 2', '236781 - Deep Learning On Computation']","['46211 - Deep Learning or 97200 - Deep Learning or 97209 - Machine Learning 2 or 236781 - Deep Learning On Computation', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Shlomi Laufer', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Shlomi Laufer']",15:30:00,False,False,False,N
+97225 - Perturbation Methods in Machine Learning,97225,"Perturbation Methods Allow to Add Statistical Guarantees to Efficient
+Learning Algorithms. The Course Explores Current Topics That Connect
+Machine Learning, Statistics and Optimization.
+Learning Outcomes#
+At The End of The Course The Student Will Know#
+1. The State-of-the-art in Perturbation Methods in Machine Learning.
+2. to Execute Perturbation Methods On Machine Learning Applications.","['94411 - Probability (ie)', '94423 - Introduction to Statistics', '96327 - Nonlinear Models in Operations Research', '94411 - Probability (ie)', '94424 - Statistics 1', '96327 - Nonlinear Models in Operations Research', '94412 - Probability (advanced)', '96327 - Nonlinear Models in Operations Research', '234218 - Data Structures 1']","['(94411 - Probability (ie) and 94423 - Introduction to Statistics and 96327 - Nonlinear Models in Operations Research) or (94411 - Probability (ie) and 94424 - Statistics 1 and 96327 - Nonlinear Models in Operations Research) or (94412 - Probability (advanced) and 96327 - Nonlinear Models in Operations Research and 234218 - Data Structures 1)', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Tamir Hazan', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Tamir Hazan']",13:30:00,False,False,False,N
+97244 - Cognitive Robotics,97244,"Basic Techniques in Artificial Intelligence in Connection to Robotics,
+And Basic Techniques in Robots. Experience Integrating Ai Techniques
+With Robots By Programming and Working With Real and Simulated
+Robots.
+Topics# Classical Planning, Temporal Planning, Motion Planning,
+Combined Task and Motion Planning.
+Learning Outcomes#
+At The End of The Course The Student Will Be Able to Program a Robot
+To Perform a Complex Task, Using Ai Techniques.","['44268 - Int. to Data Structur and Algorithms', '94223 - מבני נתונים ואלגוריתמים', '94224 - Data Structures and Algorithms', '94226 - Introduction to Algorithms', '234218 - Data Structures 1']","['44268 - Int. to Data Structur and Algorithms or 94223 - מבני נתונים ואלגוריתמים or 94224 - Data Structures and Algorithms or 94226 - Introduction to Algorithms or 234218 - Data Structures 1', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Erez Karpas', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Yotam Granov', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Erez Karpas']",13:30:00,False,False,False,N
+97246 - Social Computing Models,97246,"The Course Will Present The Principles of Emerging Interaction Models
+In On-line Social Environments, Emphasizing Algorithmic Aspects. In
+Particular, The Course Will Discuss The Topics of Sharing Economy,
+Trust Systems, Trust-based Recommendation Systems, Strategic Aspects
+Of Influencers Selection and Influence in Networks, Algorithms For
+Social Contexts Which Prohibit Payments, Strategic Aspects of The
+Wisdom of The Crowd, and Strategic Aspects of Crypto-currency
+Systems.
+Learning Outcomes#
+At The End of The Course The Student Will Know#
+
+
+1. How to Implement Basic Algorithmic Mechanisms For Emerging
+Multi-agent Interaction in The Internet.
+
+
+2. How to Use Basic Algorithmic Mechanisms For On-line Social
+Collaboration.
+3. How to Apply a Strategic and Axiomatic Perspective to Data Science
+In Multi-agent Context.","['94224 - Data Structures and Algorithms', '94411 - Probability (ie)', '94224 - Data Structures and Algorithms', '94412 - Probability (advanced)', '94226 - Introduction to Algorithms', '94411 - Probability (ie)', '94226 - Introduction to Algorithms', '94412 - Probability (advanced)']","['(94224 - Data Structures and Algorithms and 94411 - Probability (ie)) or (94224 - Data Structures and Algorithms and 94412 - Probability (advanced)) or (94226 - Introduction to Algorithms and 94411 - Probability (ie)) or (94226 - Introduction to Algorithms and 94412 - Probability (advanced))', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Moshe Tennenholtz', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Moshe Tennenholtz', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Moshe Tennenholtz']",08:30:00,False,False,False,M
+97247 - Internet of Things: Technology and Data,97247,"Internet of Things (iot)# Architectures, Devices and Analytics.
+Approaches in Capturing, Analyzing and Presenting Iot Data Will Be
+Discussed. The Course Will Include Hands-on Experience in Designing
+Wireless Sensor Networks and Capturing Sensor Data. The Network Data
+Will Be Uploaded to The Cloud For Analysis and Visualization.
+Learning Outcomes#
+At The End of The Course The Student Will Be Able To#
+1. Analyze and Define The Specification of an Iot System Taking Into
+Consideration Parameters Such As# Power Consumption, Price, Wireless
+Connectivity, Data Quality and Synchronization
+2. Design and Manage a Basic Iot System
+3. Manage Iot Data  Upload to The Cloud and Analyze
+4. Ensure Iot Data Quality",['96411 - Machine Learning 1'],"['96411 - Machine Learning 1', '236332 - The Internet of Things (iot)', '3 Academic Credit\n                             • 2 Lecture Hours\n                            \n                             • 2 Lab Hours\n                             • 1 Project Hours', 'Shlomi Laufer', '3 Academic Credit\n                             • 2 Lecture Hours\n                            \n                             • 2 Lab Hours\n                             • 1 Project Hours', 'Shlomi Laufer', '3 Academic Credit\n                             • 2 Lecture Hours\n                            \n                             • 2 Lab Hours\n                             • 1 Project Hours', 'Shlomi Laufer']",10:30:00,False,False,False,M
+97248 - Machine Learning For Healthcare,97248,"Machine Learning Has Great Potential For Improving Healthcare. We Will
+Read and Critically Discuss Recent Papers Covering How Ml Is Used
+For# Guiding Diagnosis, Personalizing Treatments, Analyzing Medical
+Images and Medical Text, Reducing Healthcare Costs, Reducing Unfair
+Bias, and For a Better Understanding of Human Physiology.
+Learning Outcomes#
+At The End of The Course The Student Will Know#
+1. to Give Three Examples of Diagnostic Tasks in Which Machine
+Learning Tools Showed an Advantage Over Physicians
+2. Explain How Machine Learning Tools Can Help Personalize Treatment,
+And What Are The Special Difficulties in This Task As Opposed To
+Diagnostic Tasks
+3. Explain For Which Medical Tasks The Current Tools of Deep Learning
+Are Appropriate, and For Which Tasks They Are Not
+4. Implement a Machine Learning Model On Medical Data, and Explain To
+A Medical Practitioner The Advantages and Disadvantages of The Model
+Versus a Human Physician,further, The Student Will Explain The
+Situations in Which They Recommend Using The Model, and The
+Situations in Which It Is Best to Avoid Using It
+5. Raise a Number of Ethical Issues Arising From The Use of Machine
+Learning Tools in The Healthcare Domain","['46193 - Data Analysis', '46202 - Data Analysis', '46203 - Planning and Reinforcemet Learning', '97209 - Machine Learning 2']","['46193 - Data Analysis or 46202 - Data Analysis or 46203 - Planning and Reinforcemet Learning or 97209 - Machine Learning 2', '3 Academic Credit\n                             • 2 Lecture Hours\n                            \n                             • 1 Lab Hours\n                             • 1 Project Hours', 'Uri Shalit', '3 Academic Credit\n                             • 2 Lecture Hours\n                            \n                             • 1 Lab Hours\n                             • 1 Project Hours', 'Uri Shalit', '3 Academic Credit\n                             • 2 Lecture Hours\n                            \n                             • 1 Lab Hours\n                             • 1 Project Hours', 'Uri Shalit']",15:30:00,False,False,False,N
+97280 - Algorithms in Uncertain Scenarios,97280,"Traditional Algorithms Rely On Random Access to The Whole Input
+Throughout The Execution.in Reality, However, Parts of The Input Are
+Often Revealed in a Later Stage Thus Requiring Alternative Algorithmic
+Models That Capture Such Uncertain Scenarios. The Course Aims At
+Investigating Such Algorithmic Models Through Various Combinatorial
+Optimization Problems.
+Learning Outcomes# Upon Completion of The Course, The Students Will
+Know How To# 1. Design Algorithms For Basic Online Problems And
+Analyze Their Competitive Ratio. These Problems Include# Variants Of
+The Paging Problem,limited Cases of The Metrical Task System Problem,
+Problems Based On The Rent-or-buy Principle 2. Design Algorithms For
+Basic Problems Under The Streaming Model and Analyze Their
+Approximation Ratio. These Problems Include# Variants of The Minimum
+Spanning Tree Problem in Graphs, Variants of Spanner Construction
+Problems in Graphs,limited Cases of Vertex/edge Covering Problems In
+Graphs and Hypergraphs 3. Apply Basic Principles in The Design And
+Analysis of Algorithms For Combinatorial Stochastic Optimization
+Problems. These Principles Include# Sampling For The Purpose Of
+Constructing Solutions,using Linear Programming 4. Apply Basic
+Principles in The Design and Analysis of Distributed Algorithms in The
+Message Passing Model. These Principles Include# Using Randomness
+For The Purpose of Symmetry Breaking,dependency On The Network Size Vs
+Dependency On The Maximum Degree in Local Computation.","['94223 - מבני נתונים ואלגוריתמים', '94411 - Probability (ie)', '94224 - Data Structures and Algorithms', '94412 - Probability (advanced)', '94226 - Introduction to Algorithms', '94412 - Probability (advanced)', '94412 - Probability (advanced)', '234247 - Algorithms 1']","['(94223 - מבני נתונים ואלגוריתמים and 94411 - Probability (ie)) or (94224 - Data Structures and Algorithms and 94412 - Probability (advanced)) or (94226 - Introduction to Algorithms and 94412 - Probability (advanced)) or (94412 - Probability (advanced) and 234247 - Algorithms 1)', '3 Academic Credit\n                             • 3 Lecture Hours', 'Yuval Emek', '3 Academic Credit\n                             • 3 Lecture Hours', 'Yuval Emek', '3 Academic Credit\n                             • 3 Lecture Hours', 'Yuval Emek']",14:30:00,False,False,False,N
+97317 - Cooperative Game Theory,97317,"Matching Games. Games in Characteristic Function Form.
+Games in Strategic Form. Utility Theory. Bargaining Games. Social
+Welfare Functions and Arrow's Impossibility Theorem.",['104009 - Linear Algebra M'],"['104009 - Linear Algebra M', '94312 - Deterministic Mod.in Operations Research\n94313 - Deterministic Models in Oper.research', '106173 - Game Theory', '94317', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Shlomit Hon-snir', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Itai Arieli', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours']",16:30:00,False,False,False,E
+97400 - Causal Inference,97400,"What Problems Require Causal Inference,why Is It Harder Than
+Supervised Learning, How Can One Learn Causal Relations From Data, We
+Will Learn The Approaches of Pearl and Rubin, Including Causal
+Graphs.
+We Will Bring Examples From Medicine, Economics and Public Policy,
+Social Media, Marketing and Sales, and Public Health.
+Learning Outcomes#
+At The End of The Course The Students Will Be Able To#
+1. Identify Problems That Require Causal Inference Tools
+2. Explain Why and Under What Conditions Machine Learning Tools Are
+Not Sufficient For Causal Inference
+3. Identify The Difference Between a Randomized Controlled Trial,
+Observational Study With No Hidden Confounding, and an Observational
+Study With Hidden Confounders
+4. Define Sufficient Conditions For The Performance of Valid Causal
+Causality, Using Both The Language of Potential Outcomes and The
+Language of Causal Graphs
+5. Use Covariate Adjustment, Matching, and Propensity Score Methods To
+Evaluate Causal Effects From Data
+6. Draw a Causal Graph That Corresponds to a Given Data Generating
+Process
+7. Identify Conditions in Which a Natural Experiment Takes Place,
+Particularly in Situations Where There Exists an Instrumental
+Variable",['97209 - Machine Learning 2'],"['97209 - Machine Learning 2', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Uri Shalit', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Uri Shalit', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'מר גוטמן רום']",17:30:00,False,False,False,E
+97414 - Statistics 2,97414,"The Course Will Cover a Variety of Statistical Theory Topics Combined
+With Data Analysis. The Course Topics Include Multivariate
+Regression, Generalized Regression, Non-parametric Statistics And
+Re-sampling Methods, Decision Theory, Bayesian Statistics  And
+And Methods of Handling Missing Data.
+Learning Outcomes#
+At The End of The Course, The Students Will Be#
+
+1. Able to Use Different Regression Methods
+2. to Perform Statistical Inference On Datasets of Various Types
+Including Handling Missing Data.","['94201 - Introductio to Data Science', '94423 - Introduction to Statistics', '94423 - Introduction to Statistics', '234221 - Introduction to Computer Science N', '94423 - Introduction to Statistics', '94700 - Introduction to Data Science and Engin.', '94424 - Statistics 1', '94700 - Introduction to Data Science and Engin.', '94424 - Statistics 1', '234221 - Introduction to Computer Science N']","['(94201 - Introductio to Data Science and 94423 - Introduction to Statistics) or (94423 - Introduction to Statistics and 234221 - Introduction to Computer Science N) or (94423 - Introduction to Statistics and 94700 - Introduction to Data Science and Engin.) or (94424 - Statistics 1 and 94700 - Introduction to Data Science and Engin.) or (94424 - Statistics 1 and 234221 - Introduction to Computer Science N)', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Yair Goldberg', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Yair Goldberg', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours']",12:30:00,True,False,False,N
+97447 - Intro. to Computability and Complexity,97447,"The Course Provides an Introduction to Computatbility and Complexity,
+Including# Deterministic Automaton and Regular Languages,
+Nondeterministic Automaton, Context-free Languages and Push-down
+Automaton, Algorithms On Automata, Turing Machine, and Decidability.
+In Complexity Theory The Course Covers The Classes P, Np, Np-hard,
+Np-complete, and Pspace.
+Learning Outcome#
+At The End of The Course The Students
+1.  Will Know Fundamental Concepts in Computability, Including
+Automata Theory, Turing Machines, Regular Languages and Decidability.
+2.  Will Know Fundamental Concepts in Complexity Theory, Including The
+Major Complexity Classes of P, Np, Np-c and Pspace.
+3.  Will Know How to Prove Membership of a Problem in a Complexity
+Class, and How to Prove That a Problem Is Decidable Or Undecidable.
+4.  Will Be Familiar With The Argument of Why The Number of Decidable
+Problems Is Countable, Whereas The Number of Undecidable Problems Is
+Uncountable.","['94224 - Data Structures and Algorithms', '234247 - Algorithms 1']","['94224 - Data Structures and Algorithms or 234247 - Algorithms 1', '236343 - Theory of Computation\n237343 - Theory of Computation', '94250 - Introduction to Computability', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Shay Kutten', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Shay Kutten', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Ofer Strichman']",17:30:00,True,False,True,E
+97449 - Nonparametric Statistics,97449,"Categorial Data (contingency Tables)# Comparison of Independent
+Samples, Measures of Association, Comparison of Related Samples.
+Ranking Data# Comparison of Independent and Related Samples,
+Measures of Association. Goodness of Fit Tests. Nonparametric
+Regression.","['94423 - Introduction to Statistics', '94424 - Statistics 1']","['94423 - Introduction to Statistics or 94424 - Statistics 1', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Marina Bogomolov', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Marina Bogomolov']",12:30:00,False,False,False,N
+97510 - Continuous Time Models in Finance,97510,"Stochastic Calculus, Derivation of The Black and Scholes Model Using
+Ito's Lemma, Valuation of Options Using Girsanov Theory, Interest
+Rates Derivatives, Hjm Model, Numerical Approximations, Optimal
+Portfolio Selection in Dynamic Markets.","['94314 - Stochastic Models in Oper.research', '94323 - Dynamic Models in Operations Research', '94334 - Simulation-modeling and Analysis']","['(94314 - Stochastic Models in Oper.research and 94323 - Dynamic Models in Operations Research and 94334 - Simulation-modeling and Analysis)', '2 Academic Credit\n                             • 2 Lecture Hours', 'Achikam Ben Artzi', '2 Academic Credit\n                             • 2 Lecture Hours', 'Achikam Ben Artzi', '2 Academic Credit\n                             • 2 Lecture Hours']",16:30:00,False,False,False,E
+97622 - Introduction to Cognitive Science,97622,"The Course Will Survey Major Research Areas, Theories, Models And
+Empirical Findings in The Study of Human Cognition. Among The Topics
+Covered Will Be The Philosophical Foundations of Cognitive Science,
+Mental Representations, Learning, Language, Vision, Attention And
+Memory. Special Focus
+Will Be Given On Computational Models of Cognition and The Connections
+Between Cognitive Science and Artificial Intelligence.
+
+Learning Outcomes#
+
+At The End of The Course The Students Will Be Able To#
+
+- Explain The Major Research Areas and Fundamental Questions in The
+Study of Human Cognition.
+- Explain Key Research Methods, Empirical Findings, Models And
+Theories in Cognitive Science.__
+
+- Characterize Relations Between Human and Machine Intelligence.",[],"['2 Academic Credit\n                             • 2 Lecture Hours', 'Yevgeni Berzak', '2 Academic Credit\n                             • 2 Lecture Hours', 'Yevgeni Berzak']",15:30:00,False,False,False,N
+97644 - Cultural Psychology,97644,"The Course Will Examine Key Points of Contention in The Literature On
+The Antecedents and Consequences of Cultural Differences. Topics That
+Will Covered Include The Sources of Cultural Differences, and The
+Consequences of These Differences to Cognition, Emotion, Motivation,
+Social Norms, and Gender Differences. Students Will Critically Review
+And Discuss Current Research On The Topic, and Submit a Final Seminar
+Paper.
+ Learning Outcomes# at The End of The Course The Students Will
+Be Able To#
+
+1. Analyze Current Research Trends and Compare Points of Disagreement
+In The Field of Cultural Psychology.
+
+2. Critically Analyze Articles in Cultural Psychology.
+
+3. Identify Central Ideas of Scientific Articles in The Field Of
+Cultural Psychology and Clearly and Effectively Present Them.
+
+4. Identify and Analyze Challenges in Cultural Psychology Research,
+From The Formulation of Research Questions to Their Translation Into
+A Concrete Methodology.","['95605 - Introduction to Psychology', '96275 - The Human Factor in Data Collection']","['95605 - Introduction to Psychology or 96275 - The Human Factor in Data Collection', '98763 - Cross-cultural Management', '2 Academic Credit\n                             • 2 Lecture Hours', 'Allon Vishkin']",14:30:00,False,False,False,N
+97800 - Marketing Principles,97800,"Students in The Course Will Acquire Understanding of Basic Marketing
+Concepts, Models and Theories. Among The Topics Covered in The Course
+Are# The Strategic Role of Marketing in Organizations, Analysis Of
+The Marketing Environment, Marketing Information, Consumer Behavior,
+Target Marketing, The Marketing Mix, Global Marketing, Services
+Marketing, and B2b Marketing. The Course Will Expose Students to Real
+World Examples From The Israeli and International Markets. Learning
+Outcomes# at The End of The Course The Student Will Know#
+1. Understanding of Basic Marketing Concepts.
+
+2. Understand Strategic Role of Marketing Gain.
+
+3. Understanding of The Elements of The Marketing Mix and Their
+Interaction.
+4. Identify and Address The Key Decisions Facing
+Marketing Managers.
+5. Practice The Process of Analyzing a Marketing
+Situation Or Opportunity.
+6. Formulating Market Strategy,
+And Implementing a Marketing Plan.","['94423 - Introduction to Statistics', '94594 - Principles of Economics For Engineers', '94423 - Introduction to Statistics', '94591 - Introductory Economics', '94424 - Statistics 1', '94594 - Principles of Economics For Engineers']","['(94423 - Introduction to Statistics and 94594 - Principles of Economics For Engineers) or (94423 - Introduction to Statistics and 94591 - Introductory Economics) or (94424 - Statistics 1 and 94594 - Principles of Economics For Engineers)', '94831 - Principles of Marketing\n94833 - עקרונות השיווק', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Atar Herziger', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Atar Herziger', '3.5 Academic Credit\n                             • 3 Lecture Hours\n                             • 1 Discussion Hours', 'Nelly Groissman']",15:00:00,False,True,False,N
+97920 - Natural Language Processing Research,97920,"This Course Teaches The Development of Natural Language Processing
+Methods For Exploring and Reasoning About Text As Data. The Course
+Will Cover The Research Cycle. Problem Definition, Data Collection,
+Model Design and Implementation, Experimental Design And
+Impllementation, Result Analaysis and Oral and Wrtten Presentation.
+
+Learning Outcomes# at The End of The Course The Studetns Will Be Able
+To#
+
+1. Design New Text Based Research Problems. 
+
+2. Collect Data That Support Research On The Research Problem. 
+
+3. Design and Implement Advanced Nlp Algorithms to Solve The Research
+Problem. 
+
+4. Design and Implement an Experimental Setup to Evalate Their
+Solution to The Research Problem. 
+
+5. Analse The Results of Their Experiments and Present Their
+Conclusions in Both Oral and Written Manners.","['97215 - Methods in Natural Language Processing', '97216 - Natural Language Processing']","['97215 - Methods in Natural Language Processing or 97216 - Natural Language Processing', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Roi Reichart', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Roi Reichart']",10:00:00,False,False,False,M
+97921 - Sel. Topics Indata and Decision Sciences,97921,"This Course Covers Ways to Develop Machine Learning Algorithms That
+Are Strategically and Socially Aware (that Is They Take Into
+Account). It Will Include Economic Incentives, Fairness, And
+Accountability in Data-driven Environments. The Course Will Explore
+Novel Techniques and Will Expose Students to State-of-the-art
+Art Research. Through Discussions, Readings, and Final Project
+(applied Or Theoretical), Students Will Develop Skills For Designing
+Ml Systems That Align With Strategic and Societal Considerations.
+Learning Outcomes#
+At The End of The Course, The Students Will Be Able To#
+
+*  Identify Potential Weaknesses in Ml Systems Caused By Economic
+Incentives, Fairness, Accountability, Etc._
+
+
+*  Develop Appropriate Solutions to Challenges Resulting From The
+Above Considerations.
+
+*  Have Familiarity With State-of-the-art Approaches in This Space.
+*  Critically Read and Analyze Research Papers in This Domain, As Well
+As Identify Limiting Assumptions and Come Up With Future Research.","['96411 - Machine Learning 1', '96570 - Game Theory and Economic Behavior']","['(96411 - Machine Learning 1 and 96570 - Game Theory and Economic Behavior)', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Omer Ben-porat', '3 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours\n                            \n                             • 1 Project Hours', 'Omer Ben-porat']",13:00:00,False,False,False,N
+97922 - Topics in Geometric Deep Learning,97922,"The Course Will Cover an Overview of Geometric Representation Learning
+Spectral Theory, Group Theory, Graph Representation Learning, Graph
+Neural Networks, Group Neural Networks, Expressive Power of Message
+Passing Neural Networks, Limitations and Extensions of Graph Neural
+Networks, Generative Graph Learning Models. at The End of The
+Semester, Students Will Perform a Small-scale Research Project
+Related to The Topics Covered During The Course. The Final Delivery
+Of The Project Will Be a Report Similar to a Research Paper.
+Learning Outcomes# at The End of The Course The Studetns Will Be Able
+To#
+
+1. Calculate Basic Spectral Theory Operators Broadly Used in Geometric
+Learning.
+
+2. Identify Bottlenecks in Geometric Learning Algorithms And
+Understand How to Avoid Them.
+
+3. Program in Pytorch Geometric Framework. 
+
+4. Solve Complex Real-world Tasks Using Deep Geometric Learning
+Algorithms.__","['46211 - Deep Learning', '97200 - Deep Learning', '97209 - Machine Learning 2', '236781 - Deep Learning On Computation']","['46211 - Deep Learning or 97200 - Deep Learning or 97209 - Machine Learning 2 or 236781 - Deep Learning On Computation', '236205 - Advanced Topics Ingeometric Deep Learnin', '2.5 Academic Credit\n                             • 2 Lecture Hours\n                             • 1 Discussion Hours', 'Chaim Baskin']",14:30:00,False,False,False,N
+97950 - Selected Topics in Repeated Games,97950,"The Course Will Focus On Two Classic Models of Repeated Games With
+Incomplete Information# (i) The Aumann-maschler Model and (ii) The
+Bayesian Dialogues Model. Both of These Models Examine Various
+Strategic Aspects Concerned With The Use of a Private Information In
+A Repeated Environment. The First Part of The Course Will Be Devoted
+To The Formal Introduction and Study of Martingales Which Play a Key
+Role in Both Models. During The Second Part of The Course We Will
+Study The Tools and Techniques Leading to The Seminal  Cav U  Theorem
+Of Aumann and Maschler. The Third and Final Part of The Course Will Be
+Devoted to Bayesian Dialogues, With an Emphasis On Their Connection
+To The Theory of Martingales._
+ Learning Outcomes# at The End of The
+Course Studetns Will Be Able To#
+
+1. Apply The Tools and Techniques Presented in The Course to Their
+Research
+
+2. Prove Results and Theorems Related to The Aumann-maschler Model.
+
+3. Identify The Limitations of The Theory For Models of Repeated Games
+With Incomplete Information.","['96200 - Mathematical Tools For Data Science', '96570 - Game Theory and Economic Behavior']","['(96200 - Mathematical Tools For Data Science and 96570 - Game Theory and Economic Behavior)', '2 Academic Credit\n                             • 2 Lecture Hours', 'Dimitry Shaiderman']",14:30:00,False,False,False,N
+97980 - Topics in Privacy and Information,97980,"This Is a Course in Ethics Which Approaches The Field Through The
+Lens of The Question of Privacy. The Goal of This Course Is to Teach
+Students to Analyze Societal Concepts Such As Privacy,
+Discrimination, and Disinformation, in Ways Which Are Conductive The
+Systematic Debate. The Course Centers On Building Fundamental Models
+Of Privacy That Are Based On The Theory of Social Representations And
+On Game Theory. The Course Will Survey Relevant Formal Norms Such As
+The Israeli Privacy Protection Law and Its International
+Counterparts. a Large Section of The Course Will Also Discuss
+Technologies Which Were Developed For Privacy Protection, Comparing
+Them With The Societal Goals They Are Supposed to Advance._
+
+Learning Outcomes#
+
+At The End of The Course The Students Will Be Able To#
+- Decipher a Privacy Case Study, Formulate It Rigorously and Refer It
+To Well Defined Societal Norms._
+
+- Represent Societal Conflict As a Game and Judge Whether a Privacy
+Mechanism Addresses The Conflict._
+
+- Identify Privacy Cases Which May Infringe Israeli and Foreign
+Privacy Laws.","['96226 - Computation', '96226 - Computation', '96570 - Game Theory and Economic Behavior', '96570 - Game Theory and Economic Behavior']","['96226 - Computation or (96226 - Computation and 96570 - Game Theory and Economic Behavior) or 96570 - Game Theory and Economic Behavior', '2 Academic Credit\n                             • 2 Lecture Hours', 'Ran Wolff', '2 Academic Credit\n                             • 2 Lecture Hours', 'Ran Wolff']",08:30:00,False,False,False,M

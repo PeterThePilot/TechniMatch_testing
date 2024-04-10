@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechniMatch - Home</title>
+    <!-- Include Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+ <style>
+    @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+    body, html {
+        height: 100%;
+        margin: 0;
+        font-family: 'Poppins', sans-serif;
+        color: #333; /* Dark text for visibility */
+        background: #fff; /* Default white background */
+        position: relative;
+    }
+    .bg-image {
+        /* Ensure the image path is correct */
+        background-image: url('../../../static/images/technion2.png');
+        /* Remove the blur effect if it's not desired */
+        /* Full height */
+        height: 100%;
+        /* Center and scale the image nicely */
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        /* Position is relative, change if needed */
+        position: relative;
+        /* Adjust the dark overlay */
+        background-color: rgba(0, 0, 0, 0.3);
+        background-blend-mode: overlay;
+    }
+    .content-container {
+        position: absolute;
+        top: 53.5%;
+        left: 50%;
+        width: 1000px;
+        /*right: 30%;*/
+        /*bottom: 40%;*/
+        transform: translate(-50%, -50%);
+        text-align: center;
+    }
+    .card-custom {
+        background: rgba(255, 255, 255, 0.8);
+        border-radius: 10px;
+        padding: 30px;
+        margin-top: 1px; /* Adjust as necessary */
+    }
+    .btn-custom {
+        margin: 10px;
+    }
+    .btn-primary {
+        background-color: #ad8561; /* Change to your desired color */
+        border-color: #ad8561; /* Change to match the background or to a different color for the border */
+    }
+
+    /* Add hover effect for primary button */
+    .btn-primary:hover {
+        background-color: #152fa1; /* Usually a darker shade of the background color */
+        border-color: #152fa1; /* Match to the hover background */
+    }
+
+    /* Custom styles for the secondary button */
+    .btn-secondary {
+        background-color: #6c757d; /* Change to your desired color */
+        border-color: #6c757d; /* Change to match the background or to a different color for the border */
+    }
+
+    /* Add hover effect for secondary button */
+    .btn-secondary:hover {
+        background-color: #152fa1; /* Usually a darker shade of the background color */
+        border-color: #152fa1; /* Match to the hover background */
+    }
+    h1, h2 {
+        color: #000; /* Set text color for visibility */
+    }
+    p {
+        color: #000; /* Set paragraph text color for visibility */
+    }
+    .logo-container {
+        position: absolute; /* changed from initial to absolute to properly position the container */
+        top: 0;
+        left: 0;
+        padding: 1px;
+        display: block; /* ensures the logos are placed side by side */
+        align-items: center; /* vertically centers the logos if they have different heights */
+        /*border-bottom: 2px solid #000; !* Adds a dark line below the logos *!*/
+        /*box-shadow: 0px 4px 2px -2px rgba(0,0,0,0.2); !* Optional: Adds a subtle shadow below the logos *!*/
+    }
+
+    /*.logo {*/
+    /*    height: 50px;*/
+    /*    width: auto;*/
+    /*    display: block;*/
+    /*    margin: 0 auto 5px;*/
+    /*}*/
+    /*.logo img {*/
+    /*    visibility: visible; !* Ensures the images are not hidden *!*/
+    /*    opacity: 1; !* Ensures the images are fully opaque *!*/
+    /*}*/
+
+    /*!* Additional styles for increased visibility *!*/
+    /*.logo-container::after {*/
+    /*    content: '';*/
+    /*    display: block;*/
+    /*    clear: both; !* Ensures the container wraps around the floated logos *!*/
+    /*}*/
+/*    .logo-container {*/
+/*    position: absolute;*/
+/*    top: 0;*/
+/*    left: 0;*/
+/*    z-index: 10; !* Make sure logos are on top *!*/
+/*    padding: 10px;*/
+
+/*    !* Remove display property to allow default block-level stacking *!*/
+/*}*/
+.logo-container {
+    position: absolute;
+    top: 0;
+    left: 50%; /* Center align the left edge of the container to the middle of the page */
+    transform: translateX(-50%); /* Pull the container back to the left by half its width */
+    z-index: 10;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Full width of the container */
+}
+.logo1 {
+    height: 100px; /* Or whatever size you prefer */
+    width: auto; /* Maintain aspect ratio */
+    margin-bottom: 1px;
+    margin-left: 0px;
+    display: block/* Space between logos */
+    /* No display property needed unless adjusting layout */
+}
+.alertlogin{
+            color: #721c24;
+            background-color: #f8d7da;
+            border-color: #f5c6cb;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid transparent;
+            border-radius: 4px;
+        }
+.logo2 {
+    height: 57px; /* Or whatever size you prefer */
+    width: auto; /* Maintain aspect ratio */
+    display: block; /* Space between logos */
+    margin-left: 50px;
+    /* No display property needed unless adjusting layout */
+}
+    /* Increasing the size of the paragraph text */
+    p {
+        font-size: 1.1rem; /* Larger font size for paragraphs */
+        color: #000; /* Keeps text color dark for visibility */
+    }
+    input[type="text"],
+input[type="password"],
+input[type="email"],
+textarea {
+    width: 100%; /* Make inputs take up 100% of their parent's width */
+    max-width: 100%; /* Ensure they don't exceed their parent's width */
+    box-sizing: border-box; /* Include padding and borders in the element's total width and height */
+    padding: 2px;
+    font-size: small;
+    margin-bottom: 1px;
+}
+</style>
+
+</head>
+<body>
+<div class="logo-container">
+        <img src="../../../static/images/technion3.png" alt="First Logo" class="logo1">
+        <img src="../../../static/images/technion4.png" alt="Second Logo" class="logo2">
+    </div>
+    <div class="bg-image"></div>
+    <div class="content-container">
+        <div class="card-custom">
+            <h2>Submit Feedback</h2>
+            <!-- Welcome message -->
+            <div>
+
+               <p>Please write how accurate the recommendations you have received were.</p>
+                <p>You can share all your thoughts on recommendations and insights. </p>
+
+            </div>
+<!--            <h2>Submit Feedback</h2>-->
+    <form method="post">
+        {% csrf_token %}
+        {% if form.errors %}
+            <div class="alertlogin">
+                {{ form.errors }}
+            </div>
+        {% endif %}
+        {% for field in form %}
+        <div class="form-group">
+<!--            {{ field.label_tag }}-->
+            {{ field }}
+
+
+            <!-- Display errors here if any -->
+        </div>
+    {% endfor %}
+        <p>Thank you for helping us improve your recommendations!</p>
+        <button class="btn-primary" type="submit">Submit</button>
+    </form>
+        </div>
+    </div>
+
+    <!-- Include Bootstrap JS and its dependencies -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+
+
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>Submit Feedback</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--    <h2>Submit Feedback</h2>-->
+<!--    <form method="post">-->
+<!--        {% csrf_token %}-->
+<!--        {{ form.as_p }}-->
+<!--        <button type="submit">Submit</button>-->
+<!--    </form>-->
+<!--</body>-->
+<!--</html>-->

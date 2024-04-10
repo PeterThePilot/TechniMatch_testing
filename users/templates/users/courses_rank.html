@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rank Courses</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+            color: #333;
+            padding: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            border-bottom: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #ad8561;
+            color: white;
+        }
+        select {
+            padding: 5px;
+            margin-right: 10px;
+            border-radius: 5px;
+        }
+        button {
+            background-color: #ad8561;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h2>Rank Mandatory Courses</h2>
+<!--    <form method="post" action="{% url 'courses_rank' %}">-->
+
+<!--        {% csrf_token %}-->
+<!--        <table>-->
+<!--            <tr>-->
+<!--                <th>Course Name</th>-->
+<!--                <th>Ranking</th>-->
+<!--            </tr>-->
+<!--            {% for course in courses %}-->
+<!--            <tr>-->
+<!--                <td>{{ course }}</td>-->
+<!--                <td>-->
+<!--                    <select >-->
+<!--                        <option value="1">1</option>-->
+<!--                        <option value="2">2</option>-->
+<!--                        <option value="3">3</option>-->
+<!--                        <option value="4">4</option>-->
+<!--                        <option value="5">5</option>-->
+<!--                    </select>-->
+<!--                </td>-->
+<!--            </tr>-->
+<!--            {% endfor %}-->
+<!--        </table>-->
+
+<!--        <button type="submit">Submit Rankings</button>-->
+<!--    </form>-->
+<form method="post" action="{% url 'submit_course_rankings' %}">
+    {% csrf_token %}
+    <table>
+        <!-- ... table headers ... -->
+        {% for course in mandatory_courses %}
+        <tr>
+            <td>{{ course.course_name }}</td>
+            <td>
+                <select name="ranking_{{ course.id }}">
+                    {% for value, label in RANKING_CHOICES %}
+                        <option value="{{ value }}">{{ label }}</option>
+                    {% endfor %}
+                </select>
+            </td>
+        </tr>
+        {% endfor %}
+        <!-- Repeat loop for other_courses -->
+    </table>
+    <h2>Rank Elective Courses</h2>
+    <table>
+        <!-- ... table headers ... -->
+        {% for course in other_courses %}
+        <tr>
+            <td>{{ course.course_name }}</td>
+            <td>
+                <select name="ranking_{{ course.id }}">
+                    {% for value, label in RANKING_CHOICES %}
+                        <option value="{{ value }}">{{ label }}</option>
+                    {% endfor %}
+                </select>
+            </td>
+        </tr>
+        {% endfor %}
+        <!-- Repeat loop for other_courses -->
+    </table>
+    <button type="submit">Submit Rankings</button>
+
+    <!-- Feedback button that does nothing when clicked -->
+
+</form>
+</body>
+</html>
+
+

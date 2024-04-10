@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>System - Dashboard</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .sidebar {
+            height: 100vh;
+            width: 250px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background-color: #333;
+            padding-top: 20px;
+        }
+        .sidebar a {
+            padding: 10px 15px;
+            text-decoration: none;
+            font-size: 18px;
+            color: white;
+            display: block;
+        }
+        .sidebar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .main-content {
+            margin-left: 250px;
+            padding: 15px;
+        }
+        .recommend-btn {
+            padding: 10px 20px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .recommend-btn:hover {
+            background-color: #218838;
+        }
+    </style>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', (event) => {
+  let recommendationsButton = document.getElementById('get-recommendations-btn');
+  if (recommendationsButton) {
+    recommendationsButton.addEventListener('click', function() {
+      document.getElementById('recommendations-form').submit();
+    });
+  }
+});
+    </script>
+</head>
+<body>
+    <div class="sidebar">
+        <!-- Sidebar links -->
+        <a href="{% url 'profile' %}">Profile</a>
+        <a href="{% url 'rankings' %}">Rankings</a>
+        <a href="{% url 'recommendations' %}">Recommendations</a>
+        <form action="{% url 'logout' %}" method="post">
+            {% csrf_token %}
+            <button type="submit" class="logout-btn">Logout</button>
+        </form>
+    </div>
+
+    <div class="main-content">
+        <h1>Welcome to the System Dashboard, {{ username }}</h1>
+        <div>
+    <a href="{% url 'courses_rank' %}" class="recommend-btn">Rank Courses</a>
+</div>
+
+        {% if has_ranked_courses %}
+    <form id="recommendations-form" method="post" action="{% url 'system' %}">
+        {% csrf_token %}
+        <input type="hidden" name="get_recommendations" value="1">
+        <button type="submit" class="recommend-btn">Get Recommendations</button>
+    </form>
+{% endif %}
+<!--</form>-->
+<!--        <button onclick="toggleRecommendations()" class="recommend-btn">Get Recommendations</button>-->
+
+<div id="recommendations" >
+<!--    style="display: {% if recommendations %}block{% else %}none{% endif %};"-->
+            <h2>Course Recommendations</h2>
+            <div>
+                <h3>Based on Similarity</h3>
+                <ul>
+                    {% for course in recommendations.similarity %}
+                        <li>{{ course }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div>
+                <h3>Based on Ranking</h3>
+                <ul>
+                    {% for course in recommendations.ranking %}
+                        <li>{{ course }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

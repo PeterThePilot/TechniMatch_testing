@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>System - Dashboard</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+        body, html {
+            margin: 0;
+            font-family: 'Poppins', sans-serif;
+            color: #333;
+            background: #e0d7d1;
+            position: relative;
+        }
+        .bg-image {
+    background-image: url('../../../static/images/technion2.png');
+    position: relative; /* or 'absolute', depending on the use-case */
+    top: 0;
+    left: 0;
+    right: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.3; /* Adjust the opacity as needed */
+    /*z-index: -1; !* Keep it behind all content *!*/
+}
+        .sidebar {
+            height: 100vh;
+            width: 250px;
+            position: fixed;
+            top: 0;
+            left: 0;
+            background-color: #333;
+            padding-top: 20px;
+            /*z-index: 1;*/
+        }
+        .sidebar a {
+            padding: 10px 15px;
+            text-decoration: none;
+            font-size: 18px;
+            color: white;
+            display: block;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+        }
+        /*welcome-container {*/
+        /*    text-decoration: none;*/
+        /*    font-size: 18px;*/
+        /*    color: white;*/
+        /*    display: block;*/
+        /*    align-items: center;*/
+        /*    justify-content: center;*/
+        /*    text-align: center;*/
+        /*    background: rgba(255, 255, 255, 0.8);*/
+        /*    border-radius: 10px;*/
+        /*    padding: 50px;*/
+        /*    margin-top: -50px;*/
+        /*}*/
+        .sidebar a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .content-container{
+    position: relative; /* This property is necessary for z-index to take effect */
+    /*z-index: 1; !* Higher than the background *!*/
+    /* Other styling properties */
+}
+        .main-content {
+            margin-left: 250px;
+            position: relative;
+             padding-left: 20px; /* Add padding to avoid content going under the sidebar */
+    padding-top: 20px; /* Same as above, for the top */
+    /*z-index: 1; !* Above the background image but below the sidebar *!*/
+        }
+        .feedback-btn {
+            background-color: #0a362c;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 18px; /* Larger font size for better readability */
+            display: block;
+            width: auto; /* Adjust as needed */
+            margin: 10px auto; /* Center button horizontally */
+            text-align: center;
+        }
+        .logout-btn{
+            background-color: #0bbee3;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 18px; /* Larger font size for better readability */
+            display: block;
+            width: auto; /* Adjust as needed */
+            margin: 10px auto; /* Center button horizontally */
+            text-align: center;
+        }
+         .recommend-btn {
+            background-color: #0bbee3;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 18px; /* Larger font size for better readability */
+            display: block;
+            width: 250px; /* Adjust as needed */
+            margin: 10px auto; /* Center button horizontally */
+            text-align: center;
+        }
+        .logout-btn:hover, .feedback-btn:hover, .recommend-btn:hover {
+            background-color: #152fa1;
+        }
+        table {
+            width: 80%;
+            margin: 0 auto;
+            border-collapse: collapse;
+            border-radius: 10px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+     .logo-container {
+    position: absolute; /* Fixed position */
+    top: 10px; /* 10px from the top */
+    right: 1px; /* 10px from the right */
+    z-index: 2; /* Above other content but below popups/modals if any */
+}
+     .centered-text {
+    text-align: center; /* Center the text */
+    margin: 20px 0; /* Add some margin for spacing */
+}
+
+.logo1 {
+    height: 100px; /* Or whatever size you prefer */
+    width: auto; /* Maintain aspect ratio */
+    margin-bottom: 1px;
+    margin-left: 0px;
+    display: block/* Space between logos */
+    /* No display property needed unless adjusting layout */
+}
+.logo2 {
+    height: 57px; /* Or whatever size you prefer */
+    width: auto; /* Maintain aspect ratio */
+    display: block; /* Space between logos */
+    margin-left: 50px;
+    /* No display property needed unless adjusting layout */
+}
+.loader {
+  border: 16px solid #f3f3f3; /* Light grey */
+  border-top: 16px solid #3498db ; /* Blue */
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+  position: fixed; /* or absolute */
+  left: 59%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 100; /* Ensure it's above other content */
+  display: none; /* Hidden by default */
+}
+
+@keyframes spin {
+  0% { transform: translate(-50%, -50%) rotate(0deg); }
+  100% { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
+        .p{font-size: medium;align-content: center; align-self: center; align-items: center; justify-content: center; text-align: center;}
+        /* Additional styles as needed */
+    </style>
+</head>
+<body>
+
+<div class="logo-container">
+        <img src="../../../static/images/technion3.png" alt="First Logo" class="logo1">
+        <img src="../../../static/images/technion4.png" alt="Second Logo" class="logo2">
+    </div>
+
+    <!-- Rest of your HTML -->
+    <div class="sidebar">
+        <!-- Sidebar links -->
+        <a href="{% url 'profile' %}">Profile</a>
+        <a href="{% url 'rankings' %}">Rankings</a>
+        <a href="{% url 'recommendations' %}">Recommendations</a>
+        <form action="{% url 'home' %}" method="post">
+    {% csrf_token %}
+    <button type="submit" class="logout-btn">Logout</button>
+</form>
+    </div>
+    <div class="main-content">
+        <div id="loader" class="loader">
+  <div class="loader-text">Loading, please wait...</div>
+</div>
+        <h1>Welcome to the System Dashboard, {{ username }}</h1>
+        <div>
+            <div class="bg-image"></div>
+            <h2 class="centered-text">Rank Courses</h2>
+            <div class="p"><p>Rank courses based on your preferences to get personalized recommendations.</p></div>
+            <a href="{% url 'courses_rank' %}" class="recommend-btn">Rank Courses</a>
+<!--    <a href="{% url 'courses_rank' %}" class="recommend-btn">Rank Courses</a>-->
+    </div>
+
+
+        {% if has_ranked_courses %}
+        <div class="p"><p>You have ranked courses. Click the button below to get recommendations.</p></div>
+
+    <form id="recommendations-form" method="post" action="{% url 'system' %}" onsubmit="showSpinner();">
+        {% csrf_token %}
+        <input type="hidden" name="get_recommendations" value="1">
+        <button type="submit" class="recommend-btn">Get Recommendations</button>
+    </form>
+{% endif %}
+
+        <!-- Rest of your content -->
+        <div id="recommendations">
+            <h2>Course Recommendations</h2>
+            <table>
+                <h3>Based on Ranking</h3>
+                <tr>
+                    <th>Course</th>
+                    <th>Syllabus</th>
+                    <th>Predicted Score</th>
+                </tr>
+                {% for course, syllabus, score in recommendations.ranking %}
+                <tr>
+                    <td>{{ course }}</td>
+                    <td>{{ syllabus }}</td>
+                    <td>{{ score }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+
+            <table>
+                <h3>Based on Similarity</h3>
+                <tr>
+                    <th>Course</th>
+                    <th>Explanation</th>
+                </tr>
+                {% for course, syllabus in recommendations.similarity %}
+                <tr>
+                    <td>{{ course }}</td>
+                    <td>{{ syllabus }}</td>
+                </tr>
+                {% endfor %}
+            </table>
+<a href="{% url 'submit_feedback' %}">
+    <button type="button" class="feedback-btn">Feedback</button>
+</a>
+<!--    <button type="button" class="feedback-btn">Feedback</button>-->
+        </div>
+    </div>
+</body>
+<script>
+function showSpinner() {
+    document.getElementById('loader').style.display = 'block';
+}
+</script>
+</html>
