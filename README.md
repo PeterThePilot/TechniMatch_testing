@@ -24,9 +24,9 @@ After the env is configured enter your google api key to the following path:(ope
 TechniMatch_testing\users\env.py
 ```
 You can get your api key for free :
-```bash
+
 https://ai.google.dev/tutorials/setup 
-```
+
 Now save all the files.
 
 Open the terminal and run the command:
