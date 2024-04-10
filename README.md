@@ -19,7 +19,7 @@ conda env create -f environment.yml
 conda activate IIS_venv
 ```
 # Running the Application
-After the env is configured enter your google api key to the following path:(replace the empty string)
+After the env is configured enter your google api key to the following path:(open this file and replace the empty string with the key string)
 ```bash
 TechniMatch_testing\users\env.py
 ```
